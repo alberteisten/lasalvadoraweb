@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'lasalvadorahnos.com',
+	'username' => 'lasalvad_dev',
+	'password' => 'Lasalvadora2019',
+	'database' => 'lasalvad_sqljobs_pw',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
