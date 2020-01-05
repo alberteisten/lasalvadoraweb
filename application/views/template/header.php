@@ -161,17 +161,10 @@
                         </li>
                       </ul>
                     </li>
-                    <li><a href="#"><span class="menu-text">Product <i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <li><a href="#"><span class="menu-text">Productos <i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
-                        <li><a href="product-list.html">Product List</a></li>
-                        <li><a href="product-grid-2.html">Product Grid 2</a></li>
-                        <li><a href="product-grid-3.html">Product Grid 3</a></li>
-                        <li><a href="product-grid-3-no-sb.html">Product Grid 3 No Sidebar</a></li>
-                        <li><a href="product-grid-4-no-sb.html">Product Grid 4 No Sidebar</a></li>
-                        <li><a href="product-grid-5-fullwidth.html">Product Grid 5 Fullwidth</a></li>
-                        <li><a href="product-detail.html">Product Detail</a></li>
-                        <li><a href="product-detail-rated.html">Product Detail Rated</a></li>
-                        <li><a href="search.html">Search</a></li>
+                        <li><a href="product-list.html">Cristaleria</a></li>
+                        <li><a href="product-grid-2.html">Acero Inoxidable</a></li>
                       </ul>
                     </li>
                     <li><a href="#"><span class="menu-text">Shop <i class="menu-icon fa fa-angle-down"></i></span></a>

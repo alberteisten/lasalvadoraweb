@@ -45,6 +45,11 @@
       </section>
       <!-- .home-3-slideshow-->
 
+    <br>
+      <div class="featured-title mv-title-style-2 title-home-3">
+            <div class="title-2-inner"><span class="main">Productos Destacados</span></div>
+      </div>
+
       <section class="home-3-highlight mv-wrap">
         <div class="container-fluid">
           <div class="mv-block-style-13">
@@ -53,14 +58,14 @@
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
                     <div class="block-13-col-inner">
-                      <div class="block-13-thumb mv-effect-relative"><a href="product-detail.html" title="Polo Shirt - Black" class="block-13-thumb-link"><img src="<?=base_url();?>assets/images/demo/demo_25.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_42.png" alt="demo" class="block-13-thumb-img mv-effect-item"/></a><a href="product-detail.html" title="Polo Shirt - Black" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a></div><img src="<?=base_url();?>assets/images/demo/demo_28.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                      <div class="block-13-thumb mv-effect-relative"><a href="product-detail.html" title="Polo Shirt - Black" class="block-13-thumb-link"><img src="<?=base_url();?>assets/images/productos/destacados/1800013.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/1798922.png" alt="demo" class="block-13-thumb-img mv-effect-item"/></a><a href="product-detail.html" title="Polo Shirt - Black" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a></div><img src="<?=base_url();?>assets/images/productos/destacados/crisa-logo.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
                     </div>
                   </div>
 
                   <div class="mv-col block-13-col-main">
                     <div class="block-13-main">
-                      <div class="block-13-model"><a href="product-detail.html" title="Polo Shirt - Black" class="mv-overflow-ellipsis">rst race</a></div>
-                      <div class="block-13-name"> <a href="product-detail.html" title="Polo Shirt - Black">Polo Shirt - Black</a></div>
+                      <div class="block-13-model"><a href="product-detail.html" title="Polo Shirt - Black" class="mv-overflow-ellipsis">Prueba 1</a></div>
+                      <div class="block-13-name"> <a href="product-detail.html" title="Polo Shirt - Black">Polo Shirt - Negro</a></div>
                       <div class="block-13-desc hidden-xs">Lorem ipsum dolor sit amet, consectincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
                       <div class="block-13-price">
                         <div class="old-price">$ 79.99</div>
@@ -124,7 +129,7 @@
       <section class="home-3-featured-products mv-wrap">
         <div class="container">
           <div class="featured-title mv-title-style-2 title-home-3">
-            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/icon_m_3.png" alt="icon" class="icon image-live-view"/><span class="main">featured products</span></div>
+            <div class="title-2-inner"><span class="main">Productos Nuevos</span></div>
           </div>
           <!-- .featured-title-->
 
@@ -318,6 +323,52 @@
                       </div>
                     </div>
                   </article>
+
+                  <!-- .post-->
+
+                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
+                    <div class="item-inner mv-effect-translate-right-left">
+                      <div class="content-default">
+                        <div class="content-thumb">
+                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_63.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_62.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+
+                            <div class="content-message mv-message-style-1">
+                              <div class="message-inner"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
+                          <div class="rate-inner mv-f-14 text-left">
+                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                          </div>
+                        </div>
+
+                        <div class="content-sale-off mv-label-style-4 label-primary">
+                          <div class="label-inner">-25%</div>
+                        </div>
+                      </div>
+
+                      <div class="content-main">
+                        <div class="content-text">
+                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                        </div>
+                      </div>
+
+                      <div class="content-hover">
+                        <div class="content-button mv-btn-group text-center">
+                          <div class="group-inner">
+                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+                  
                   <!-- .post-->
 
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post helmet">
