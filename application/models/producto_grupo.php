@@ -10,9 +10,11 @@
         }
 
         public function get_all(){
-            $query = $this->db->get($this->tabla);
-            return $query->result_array();
+            $sql="select id, nombre, (select count(*) from producto where id_grupo = id) as cantidad from producto_grupo";
+            $consulta = $this->db->query($sql);
+            return	$consulta->result_array();
         }
+        
     }
     
 ?>

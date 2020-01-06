@@ -7,11 +7,15 @@ class Producto extends CI_Controller {
 		parent::__construct();
 		# code...
 		$this->load->model('producto_grupo');
+		$this->load->model('producto_model');
 	}
 
-	public function index()
+	public function index($id_grupo = 2)
 	{
-		$data['categorias'] = $this->producto_grupo->get_all();
-		$this->load->view('producto/index',$data);
+		$datos['headers'] = $this->load->view('template/header','', TRUE);
+        $datos['footers'] = $this->load->view('template/footer','', TRUE);
+		$datos['categorias'] = $this->producto_grupo->get_all();
+		$datos['productos'] = $this->producto_model->get_all($id_grupo);
+		$this->load->view('producto/index',$datos);
 	}
 }

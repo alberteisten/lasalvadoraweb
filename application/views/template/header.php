@@ -161,12 +161,9 @@
                         </li>
                       </ul>
                     </li>
-                    <li><a href="#"><span class="menu-text">Productos <i class="menu-icon fa fa-angle-down"></i></span></a>
-                      <ul>
-                        <li><a href="product-list.html">Cristaleria</a></li>
-                        <li><a href="product-grid-2.html">Acero Inoxidable</a></li>
-                      </ul>
-                    </li>
+                    
+                    <li><a href="<?=base_url();?>producto"><span class="menu-text">Productos</span></a></li>
+
                     <li><a href="#"><span class="menu-text">Shop <i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
                         <li><a href="cart.html">Cart</a></li>
