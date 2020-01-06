@@ -1,4 +1,5 @@
 <?= $headers ?>
+
 <!-- CONTENIDO ****************************************************************-->
 <?php // print_r($productos); ?>
 <body>
@@ -31,8 +32,8 @@
         <div class="container">
           <div class="row mv-content-sidebar">
             <div class="mv-c-s-content col-xs-12 col-md-8 col-lg-9">
-              <div class="row mv-list-product-wrapper mv-block-style-9">
-                <div class="block-9-list mv-list-product">
+              <div class="row mv-list-product-wrapper mv-block-style-9" >
+                <div class="block-9-list mv-list-product" id="contenedor-producto">
                   <!-- productos-->
                   <?php 
                   foreach ($productos as $key => $value) {
@@ -85,13 +86,12 @@
                     <?php
                   }
                   ?>
-                  
                   <!-- .end productos-->
 
                 </div>
               </div>
               <!-- .mv-list-product-wrapper-->
-
+<!-- paginación
               <div class="mv-pagination-wrapper">
                 <div class="mv-pagination-style-1 has-count-post">
                   <div class="count-post mv-title-style-10"><span class="number">12</span> Products of <span class="number">5</span> Pages</div>
@@ -105,8 +105,10 @@
                     <li class="next"><a href="#">next</a></li>
                   </ul>
                 </div>
-                <!-- .mv-pagination-style-1-->
+
+
               </div>
+              -->
               <!-- .mv-pagination-wrapper-->
             </div>
             <!-- .mv-c-s-content-->

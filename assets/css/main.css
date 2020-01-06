@@ -24,6 +24,11 @@ body {
     line-height: 1.42857143;
   }
 }
+
+.pagination {
+  width: 100%;
+}
+
 .mv-site {
   position: relative;
   overflow-x: hidden;
