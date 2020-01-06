@@ -138,7 +138,7 @@ window.smartsupp||(function(d) {
               </div>
               <!-- .header-toggle-off-canvas-->
 
-              <div class="header-logo"><a href="index.html" title="Motor Vehikal"><img src="<?=base_url();?>assets/images/logo/logo_3.png" alt="logo" class="logo-img img-default image-live-view"/><img src="<?=base_url();?>assets/images/logo/logo_4.png" alt="logo" class="logo-img img-scroll image-live-view"/></a></div>
+              <div class="header-logo"><a href="<?=base_url();?>" title="La Salvadora"><img src="<?=base_url();?>assets/images/logo/logo-lasalvadora.png" alt="logo" class="logo-img img-default image-live-view"/><img src="<?=base_url();?>assets/images/logo/logo-lasalvadora.png" alt="logo" class="logo-img img-scroll image-live-view"/></a></div>
               <!-- .header-logo-->
 
               <div class="main-nav-wrapper hidden-xs hidden-sm">
