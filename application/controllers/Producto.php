@@ -10,7 +10,7 @@ class Producto extends CI_Controller {
 		$this->load->model('producto_model');
 	}
 
-	public function index($id_grupo = 2)
+	public function index($id_grupo = 31)
 	{
 		$datos['headers'] = $this->load->view('template/header','', TRUE);
         $datos['footers'] = $this->load->view('template/footer','', TRUE);
