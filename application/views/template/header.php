@@ -144,34 +144,7 @@ window.smartsupp||(function(d) {
               <div class="main-nav-wrapper hidden-xs hidden-sm">
                 <nav class="main-nav">
                   <ul class="nav sf-menu">
-                    <li class="mega-columns"><a href="index.html"><span class="menu-text">Home <i class="menu-icon fa fa-angle-down"></i></span></a>
-                      <ul class="row">
-                        <li class="col-xs-3 mega-col"><a href="index.html" class="mega-title"><span class="menu-text">Homepage Demos</span></a>
-                          <ul class="mega-content">
-                            <li class="active"><a href="index.html">Home 1</a></li>
-                            <li><a href="home-2.html">Home 2</a></li>
-                            <li><a href="home-3.html">Home 3</a></li>
-                          </ul>
-                        </li>
-                        <li class="col-xs-3 mega-col"><a href="index.html" class="mega-title"><span class="menu-text">Homepage Demos</span></a>
-                          <ul class="mega-content">
-                            <li><a href="home-4.html">Home 4</a></li>
-                            <li><a href="home-5.html">Home 5</a></li>
-                          </ul>
-                        </li>
-                        <li class="col-xs-3 mega-col"><a href="index.html" class="mega-title"><span class="menu-text">Homepage Demos</span></a>
-                          <ul class="mega-content">
-                            <li><a href="home-lookbook-1.html">Home Lookbook 1</a></li>
-                            <li><a href="home-lookbook-2.html">Home Lookbook 2</a></li>
-                          </ul>
-                        </li>
-                        <li class="col-xs-3 mega-col"><a href="index.html" class="mega-title"><span class="menu-text">Homepage Demos</span></a>
-                          <ul class="mega-content">
-                            <li><a href="home-parallax.html">Home Parallax</a></li>
-                          </ul>
-                        </li>
-                      </ul>
-                    </li>
+                    <li><a href="<?=base_url();?>"><span class="menu-text">Inicio</span></a></li>
                     
                     <li><a href="<?=base_url();?>producto"><span class="menu-text">Productos</span></a></li>
 
