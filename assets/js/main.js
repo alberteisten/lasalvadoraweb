@@ -478,9 +478,9 @@ $(document).ready(function() {
       },
 
       auto: {
-        timeoutDuration: 6000,
-        // play: true,
-        play: false
+        timeoutDuration: 5000,
+        play: true,
+        // play: false
       },
 
       swipe: {
