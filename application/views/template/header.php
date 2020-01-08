@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Home 3 - Motor Vehikal</title>
+    <title>Lasalvadorahnos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -59,10 +59,11 @@ window.smartsupp||(function(d) {
               <div class="mv-col-wrapper">
                 <div class="mv-col-left header-contact">
                   <ul class="mv-ul clearfix group-contact hidden-xs">
-                    <li class="item-button mv-icon-left-style-2"><span class="text"> <span class="icon"><i class="fa fa-clock-o"></i></span>24/7 Support</span></li>
-                    <li class="item-button mv-icon-left-style-2"><a href="tel:(+800)123456789" class="text"> <span class="icon"><i class="fa fa-phone"></i></span>Telephone: (+800) 123 456 789</a></li>
+                   <!-- <li class="item-button mv-icon-left-style-2"><span class="text"> <span class="icon"><i class="fa fa-clock-o"></i></span>24/7 Soporte</span></li>-->
+										<li class="item-button mv-icon-left-style-2"><a href="tel:(+591)2204555" class="text"> <span class="icon"><i class="fa fa-phone"></i></span>Telefono: (+591) 2204555</a></li>
+										<li class="item-button mv-icon-left-style-2"><a href="#" class="text"> <span class="icon"><i class="fa fa-envelope"></i></span>Correo: info@salvadorahnos.com</a></li> 
                   </ul>
-                  <ul class="mv-ul clearfix group-language">
+                  <!--<ul class="mv-ul clearfix group-language">
                     <li class="item-button dropdown mv-dropdown-style-1 item-currency">
                       <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="mv-btn mv-btn-style-24"> <i class="fa fa-usd"></i>&nbsp; USD<i class="icon fa fa-angle-down"></i></button>
                       <div class="dropdown-menu pull-right">
@@ -95,7 +96,7 @@ window.smartsupp||(function(d) {
                         </div>
                       </div>
                     </li>
-                  </ul>
+                  </ul>-->
                 </div>
                 <!-- .header-contact-->
 
@@ -103,23 +104,23 @@ window.smartsupp||(function(d) {
                   <div class="mv-btn-group text-right">
                     <div class="group-inner">
                       <div class="item-button mv-btn dropdown mv-dropdown-style-1">
-                        <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="mv-btn mv-btn-style-12"><span class="btn-text hidden-xs hidden-sm">my account</span><i class="btn-icon fa fa-user hidden-md hidden-lg"></i><i class="icon fa fa-caret-down"></i></button>
+                        <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="mv-btn mv-btn-style-12"><span class="btn-text hidden-xs hidden-sm">Mi Cuenta</span><i class="btn-icon fa fa-user hidden-md hidden-lg"></i><i class="icon fa fa-caret-down"></i></button>
                         <div class="dropdown-menu pull-right">
                           <div class="dropdown-menu-inner">
                             <nav class="mv-menu-style-3">
                               <ul>
                                 <li><a href="login.html"><i class="fa fa-sign-in mv-color-primary"></i>&nbsp;
-                                    Login</a></li>
+                                    Iniciar Sesion</a></li>
                                 <li><a href="login.html"><i class="fa fa-pencil-square-o mv-color-primary"></i>&nbsp;
-                                    Register</a></li>
-                                <li><a href="wishlist.html">My Wishlist</a></li>
-                                <li><a href="compare.html">Compare</a></li>
+                                    Registrarse</a></li>
+                                <!--<li><a href="wishlist.html">My Wishlist</a></li>
+                                <li><a href="compare.html">Compare</a></li>-->
                               </ul>
                             </nav>
                           </div>
                         </div>
                       </div>
-                      <div class="item-button mv-btn"><a href="checkout.html" class="item-button mv-btn mv-btn-style-12"> <i class="btn-icon fa fa-shopping-cart hidden-md hidden-lg"></i><span class="btn-text hidden-xs hidden-sm">checkout</span></a></div>
+                     <!-- <div class="item-button mv-btn"><a href="checkout.html" class="item-button mv-btn mv-btn-style-12"> <i class="btn-icon fa fa-shopping-cart hidden-md hidden-lg"></i><span class="btn-text hidden-xs hidden-sm">checkout</span></a></div>-->
                     </div>
                   </div>
                 </div>
@@ -148,51 +149,45 @@ window.smartsupp||(function(d) {
                     
                     <li><a href="<?=base_url();?>producto"><span class="menu-text">Productos</span></a></li>
 
-                    <li><a href="#"><span class="menu-text">Shop <i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <li><a href="#"><span class="menu-text">Mas <i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
-                        <li><a href="cart.html">Cart</a></li>
-                        <li><a href="checkout.html">Checkout</a></li>
-                        <li><a href="wishlist.html">Wishlist</a></li>
-                        <li><a href="compare.html">Compare</a></li>
-                        <li><a href="track-your-order.html">Track Your Order</a></li>
-                        <li><a href="cart-empty.html">Cart Empty</a></li>
+                        <li><a href="cart.html">Eventos</a></li>
+                        <li><a href="checkout.html">Noticias</a></li>
                       </ul>
                     </li>
-                    <li><a href="#"><span class="menu-text">Blog <i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <li><a href="#"><span class="menu-text">Catálogo<i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
-                        <li><a href="blog-list.html">Blog List</a></li>
-                        <li><a href="blog-grid-2.html">Blog Grid 2</a></li>
-                        <li><a href="blog-grid-3-no-sb.html">Blog Grid 3 No Sidebar</a></li>
-                        <li><a href="blog-grid-3-mansory-no-sb.html">Blog Grid 3 Mansory No Sidebar</a></li>
-                        <li><a href="blog-detail.html">Blog Detail</a></li>
+                        <li><a href="blog-list.html">Catalogo 2019</a></li>
+                        <li><a href="blog-grid-2.html">Catalogo 2020</a></li>
                       </ul>
                     </li>
-                    <li><a href="about-us.html"><span class="menu-text">About Us</span></a></li>
-                    <li><a href="contact.html"><span class="menu-text">Contact</span></a></li>
-                    <li><a href="#"><span class="menu-text">Pages <i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <li><a href="about-us.html"><span class="menu-text">Acerca De</span></a></li>
+                   <!-- <li><a href="contact.html"><span class="menu-text">Contactenos</span></a></li>-->
+                    <li><a href="#"><span class="menu-text">Contactenos <i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul class="dropdown-left">
-                        <li><a href="login.html">Login & Register</a></li>
+                        <li><a href="login.html">Casa Matriz</a></li><!--
                         <li><a href="forgot-password.html">Forgot Password</a></li>
                         <li><a href="faqs.html">Faqs</a></li>
                         <li><a href="newsletter.html">Newsletter</a></li>
                         <li><a href="shortcodes.html">Shortcodes</a></li>
                         <li><a href="common-element.html">Common Element</a></li>
-                        <li><a href="error-page.html">Error Page</a></li>
-                        <li><a href="#"><span class="menu-text">Example menu item <i class="menu-icon fa fa-angle-down"></i></span></a>
+                        <li><a href="error-page.html">Error Page</a></li>-->
+                        <li><a href="#"><span class="menu-text">Sucursales<i class="menu-icon fa fa-angle-down"></i></span></a>
                           <ul>
-                            <li><a href="#">Example menu item</a></li>
-                            <li><a href="#"><span class="menu-text">Example menu item <i class="menu-icon fa fa-angle-down"></i></span></a>
+														<li><a href="#">Suc-Ortega</a></li>
+														<li><a href="#">Suc-Camacho</a></li>
+                            <!--<li><a href="#"><span class="menu-text">Ortega<i class="menu-icon fa fa-angle-down"></i></span></a>
                               <ul>
                                 <li><a href="#">Example menu item</a></li>
                                 <li><a href="#">Example menu item</a></li>
                               </ul>
                             </li>
-                            <li><a href="#"><span class="menu-text">Example menu item <i class="menu-icon fa fa-angle-down"></i></span></a>
+                            <li><a href="#"><span class="menu-text">Camacho<i class="menu-icon fa fa-angle-down"></i></span></a>
                               <ul class="dropdown-left">
                                 <li><a href="#">Example menu item</a></li>
                                 <li><a href="#">Example menu item</a></li>
                               </ul>
-                            </li>
+                            </li>-->
                           </ul>
                         </li>
                       </ul>
