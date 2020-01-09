@@ -207,16 +207,18 @@ window.smartsupp||(function(d) {
                 <!-- .header-search-->
 
                 <div class="header-shop">
-                  <div class="item-button"><a href="wishlist.html" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-heart-o"></span><span class="number">8</span></span></a></div>
+									<div class="item-button"><a href="https://www.facebook.com/lasalvadorahnos/" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-facebook"></span><span class="number">731</span></span></a></div>
+									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></a></div>
+									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-instagram"></span><span class="number">0</span></span></a></div>
 
-                  <div class="item-button dropdown mv-dropdown-style-1 script-dropdown-1">
-                    <button type="button" class="mv-btn mv-btn-style-11 btn-dropdown btn-my-cart"><span class="btn-inner"><span class="icon fa fa-shopping-bag"></span><span class="number">3</span></span></button>
-                    <div class="dropdown-menu pull-right">
+               <!--  <div class="item-button dropdown mv-dropdown-style-1 script-dropdown-1">
+                    <button type="button" class="mv-btn mv-btn-style-11 btn-dropdown btn-my-cart"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></button>
+                <!-- <div class="dropdown-menu pull-right">
                       <div class="dropdown-menu-inner">
-                        <div class="mv-block-style-39">
-                          <div class="block-39-header">You have <span class="mv-color-primary">3 items</span> in your shopping cart</div>
-                          <div class="block-39-list">
-                            <article class="item post">
+                        <div class="mv-block-style-39">-->
+                        <!--  <div class="block-39-header">You have <span class="mv-color-primary">3 items</span> in your shopping cart</div>-->
+                        <!--  <div class="block-39-list">-->
+                           <!-- <article class="item post">
                               <div class="item-inner">
                                 <div class="mv-dp-table align-top">
                                   <div class="mv-dp-table-cell block-39-thumb">
@@ -236,10 +238,10 @@ window.smartsupp||(function(d) {
                                 </div>
                                 <button type="button" title="Remove from Wishlist" class="mv-btn mv-btn-style-4 fa fa-close btn-delete-product"></button>
                               </div>
-                            </article>
+                            </article> -->
                             <!-- .post-->
 
-                            <article class="item post">
+                           <!-- <article class="item post">
                               <div class="item-inner">
                                 <div class="mv-dp-table align-top">
                                   <div class="mv-dp-table-cell block-39-thumb">
@@ -259,10 +261,10 @@ window.smartsupp||(function(d) {
                                 </div>
                                 <button type="button" title="Remove from Wishlist" class="mv-btn mv-btn-style-4 fa fa-close btn-delete-product"></button>
                               </div>
-                            </article>
+                            </article>-->
                             <!-- .post-->
 
-                            <article class="item post">
+                          <!--  <article class="item post">
                               <div class="item-inner">
                                 <div class="mv-dp-table align-top">
                                   <div class="mv-dp-table-cell block-39-thumb">
@@ -282,9 +284,9 @@ window.smartsupp||(function(d) {
                                 </div>
                                 <button type="button" title="Remove from Wishlist" class="mv-btn mv-btn-style-4 fa fa-close btn-delete-product"></button>
                               </div>
-                            </article>
+                            </article> -->
                             <!-- .post-->
-                          </div>
+                         <!-- </div>
 
                           <div class="block-39-total mv-col-wrapper">
                             <div class="mv-col-left">total</div>
@@ -297,12 +299,12 @@ window.smartsupp||(function(d) {
                               <div class="col-xs-6"><a href="checkout.html" class="mv-btn mv-btn-style-5 btn-5-h-45 responsive-btn-5-type-2 mv-btn-block">checkout</a></div>
                             </div>
                           </div>
-                        </div>
+                        </div>-->
                         <!-- .mv-block-style-39-->
-                      </div>
+                    <!--  </div>
                     </div>
-                  </div>
-                </div>
+                  </div>-->
+                </div> 
                 <!-- .header-shop-->
               </div>
             </div>
