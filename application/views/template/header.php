@@ -207,9 +207,9 @@ window.smartsupp||(function(d) {
                 <!-- .header-search-->
 
                 <div class="header-shop">
-									<div class="item-button"><a href="https://www.facebook.com/lasalvadorahnos/" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-facebook"></span><span class="number">731</span></span></a></div>
-									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></a></div>
-									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"><span class="btn-inner"><span class="icon fa fa-instagram"></span><span class="number">0</span></span></a></div>
+									<div class="item-button"><a href="https://www.facebook.com/lasalvadorahnos/" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-facebook"></span><span class="number">731</span></span></a></div>
+									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></a></div>
+									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-instagram"></span><span class="number">0</span></span></a></div>
 
                <!--  <div class="item-button dropdown mv-dropdown-style-1 script-dropdown-1">
                     <button type="button" class="mv-btn mv-btn-style-11 btn-dropdown btn-my-cart"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></button>

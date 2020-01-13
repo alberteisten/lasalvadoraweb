@@ -5,37 +5,49 @@
 <section class="home-3-slideshow mv-wrap">
         <div id="home-3-slideshow" class="mv-caroufredsel">
           <ul class="mv-slider-wrapper">
-            <li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide_3.jpg" alt="slide" class="mv-slider-img"/>
+
+            <li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide1.jpg" alt="slide" class="mv-slider-img"/>
               <div class="mv-caption-style-3">
                 <div class="container"><img src="<?=base_url();?>assets/images/icon/icon_stars.png" alt="icon" class="caption-3-img-1"/>
-                  <div class="caption-3-text-1">Primera Imagen</div>
+                  <div class="caption-3-text-1">Ollas de Acero Inoxidable</div>
                   <div class="caption-3-text-2">
-                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Deal special</div>
-                  </div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>
+                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Tu Hogar lo Vale ...!</div>
+                 <!-- </div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>-->
                 </div>
               </div>
             </li>
             <!-- .mv-slider-item-->
 
-            <li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide_8.jpg" alt="slide" class="mv-slider-img"/>
+            <li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide2.jpg" alt="slide" class="mv-slider-img"/>
               <div class="mv-caption-style-3">
                 <div class="container"><img src="<?=base_url();?>assets/images/icon/icon_stars.png" alt="icon" class="caption-3-img-1"/>
-                  <div class="caption-3-text-1">Segunda Imagen</div>
+                  <div class="caption-3-text-1">Orion Desayunando </div>
                   <div class="caption-3-text-2">
-                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Deal special</div>
-                  </div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>
+                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Tu Hogar lo Vale ...!</div>
+                 <!-- </div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>-->
+                </div>
+              </div>
+						</li>
+						<!-- .mv-slider-item -->
+						<li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide3.jpg" alt="slide" class="mv-slider-img"/>
+              <div class="mv-caption-style-3">
+                <div class="container"><img src="<?=base_url();?>assets/images/icon/icon_stars.png" alt="icon" class="caption-3-img-1"/>
+                  <div class="caption-3-text-1">Posillos para tu desayuno</div>
+                  <div class="caption-3-text-2">
+                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Tu Hogar lo Vale ...!</div>
+                  <!--</div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>-->
                 </div>
               </div>
             </li>
             <!-- .mv-slider-item-->
 
-            <li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide_7.jpg" alt="slide" class="mv-slider-img"/>
+            <li class="mv-slider-item"><img src="<?=base_url();?>assets/images/slideshow/slide4.jpg" alt="slide" class="mv-slider-img"/>
               <div class="mv-caption-style-3">
                 <div class="container"><img src="<?=base_url();?>assets/images/icon/icon_stars.png" alt="icon" class="caption-3-img-1"/>
-                  <div class="caption-3-text-1">The Fast and The Furious</div>
+                  <div class="caption-3-text-1">Buffet</div>
                   <div class="caption-3-text-2">
-                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Deal special</div>
-                  </div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>
+                    <div class="mv-title-style-1"><img src="<?=base_url();?>assets/images/icon/icon_line_1.png" alt="icon" class="line-left"/><img src="<?=base_url();?>assets/images/icon/icon_line_2.png" alt="icon" class="line-right"/>Tu Hogar lo Vale ...!</div>
+                 <!-- </div><a href="product-grid-3.html" class="caption-3-button-1 mv-btn mv-btn-style-1 responsive-btn-1-type-2"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>-->
                 </div>
               </div>
             </li>

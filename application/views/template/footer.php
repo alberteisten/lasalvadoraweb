@@ -4,74 +4,75 @@
             <div class="footer-inner">
               <div id="footerNav" role="tablist" aria-multiselectable="true" class="footer-nav panel-group">
                 <div class="row">
-                  <div class="col-md-2 footer-nav-col footer-about-us"><a data-toggle="collapse" data-parent="#footerNav" href="#footerAboutUs" aria-expanded="false" aria-controls="footerAboutUs" class="footer-title collapsed">about us</a>
+                  <div class="col-md-2 footer-nav-col footer-about-us"><a data-toggle="collapse" data-parent="#footerNav" href="#footerAboutUs" aria-expanded="false" aria-controls="footerAboutUs" class="footer-title collapsed">Quienes Somos</a>
                     <div id="footerAboutUs" role="tabpanel" class="footer-main collapse">
                       <div class="footer-main-inner">
                         <div class="about-us-content">
-                          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p>
-                          <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</p>
-                        </div>
-                        <div class="about-us-btn-detail"><a href="#">details +</a></div>
+                          <p>Somos una empresa dedicada a la importación y comercialización de mercadería en Gral</p>
+												</div>
+                       <div class="about-us-btn-detail"><a href="#">Mas Destalles</a></div>
                       </div>
                     </div>
                   </div>
 
-                  <div class="col-md-2 footer-nav-col footer-faqs"><a data-toggle="collapse" data-parent="#footerNav" href="#footerFaqs" aria-expanded="false" aria-controls="footerFaqs" class="footer-title collapsed">faqs</a>
+                  <div class="col-md-2 footer-nav-col footer-faqs"><a data-toggle="collapse" data-parent="#footerNav" href="#footerFaqs" aria-expanded="false" aria-controls="footerFaqs" class="footer-title collapsed">Preguntas Frecuentes</a>
                     <div id="footerFaqs" role="tabpanel" class="footer-main collapse">
                       <ul class="mv-ul footer-main-inner list">
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Contact us</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Returns</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Site Map</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Brands</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Gift Vouchers</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Contacto</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Dirección</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Mapas del Citio</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Telefonos</span></a></li>
                       </ul>
                     </div>
                   </div>
 
-                  <div class="col-md-2 footer-nav-col footer-order-tracking"><a data-toggle="collapse" data-parent="#footerNav" href="#footerOrderTracking" aria-expanded="false" aria-controls="footerOrderTracking" class="footer-title collapsed">order tracking</a>
+                  <div class="col-md-2 footer-nav-col footer-order-tracking"><a data-toggle="collapse" data-parent="#footerNav" href="#footerOrderTracking" aria-expanded="false" aria-controls="footerOrderTracking" class="footer-title collapsed">Nuestras Marcas</a>
                     <div id="footerOrderTracking" role="tabpanel" class="footer-main collapse">
                       <ul class="mv-ul footer-main-inner list">
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>About us</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Returns</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Contact us</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Term & Conditions</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>Privacy Policy</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>CRISA</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>VASCONIA</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>PRESTO</span></a></li>
+                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>LIBBEY</span></a></li>
+												<li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>SUNNEX</span></a></li>
+												<li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-angle-right"></i></span>FOOTO</span></a></li>
                       </ul>
                     </div>
                   </div>
 
-                  <div class="col-md-2 footer-nav-col footer-contact"><a data-toggle="collapse" data-parent="#footerNav" href="#footerContact" aria-expanded="true" aria-controls="footerContact" class="footer-title collapsed">contact info</a>
+                  <div class="col-md-2 footer-nav-col footer-contact"><a data-toggle="collapse" data-parent="#footerNav" href="#footerContact" aria-expanded="true" aria-controls="footerContact" class="footer-title collapsed">Información de Contacto</a>
                     <div id="footerContact" role="tabpanel" class="footer-main collapse">
                       <ul class="mv-ul footer-main-inner list">
                         <li class="mv-icon-left-style-1 item">
                           <div class="mv-dp-table align-middle">
                             <div class="mv-dp-table-cell icon"><i class="icon-fa fa fa-map-marker mv-f-22 mv-color-primary"></i></div>
-                            <div class="mv-dp-table-cell text">123 Sky Tower address name, Los Algeles</div>
+                            <div class="mv-dp-table-cell text">San Miguel Ed. Integramed P.6 Of.602 Zona Sur</div>
                           </div>
                         </li>
                         <li class="mv-icon-left-style-1 item">
                           <div class="mv-dp-table align-middle">
                             <div class="mv-dp-table-cell icon"><i class="icon-fa fa fa-mobile mv-f-26 mv-color-primary"></i></div>
-                            <div class="mv-dp-table-cell text">PHONE : (012) 345 6789</div>
+                            <div class="mv-dp-table-cell text">Teléfono: (+591) 2776884, 76797120 </div>
                           </div>
                         </li>
                         <li class="mv-icon-left-style-1 item">
                           <div class="mv-dp-table align-middle">
-                            <div class="mv-dp-table-cell icon"><i class="icon-fa fa fa-envelope-o mv-f-20 mv-color-primary"></i></div>
-                            <div class="mv-dp-table-cell text">EMAIL:<a href="../../cdn-cgi/l/email-protection#c4adaaa2ab848eb1bca0a1b7ada3aaeaa7aba9"> <span class="__cf_email__" data-cfemail="c4adaaa2ab848eb1bca0a1b7ada3aaeaa7aba9">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div>
+														<div class="mv-dp-table-cell icon"><i class="icon-fa fa fa-envelope-o mv-f-20 mv-color-primary"></i></div>
+														<div class="mv-dp-table-cell text">Correo: info@lasalvadorahnos.com </div>
+                            <!--<div class="mv-dp-table-cell text">Correo:<a href="../../cdn-cgi/l/email-protection#c4adaaa2ab848eb1bca0a1b7ada3aaeaa7aba9"> <span class="__cf_email__" data-cfemail="c4adaaa2ab848eb1bca0a1b7ada3aaeaa7aba9">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div>-->
                           </div>
                         </li>
                       </ul>
                     </div>
                   </div>
 
-                  <div class="col-md-2 footer-nav-col footer-social"><a data-toggle="collapse" data-parent="#footerNav" href="#footerSocial" aria-expanded="false" aria-controls="footerSocial" class="footer-title collapsed">follow social</a>
+                  <div class="col-md-2 footer-nav-col footer-social"><a data-toggle="collapse" data-parent="#footerNav" href="#footerSocial" aria-expanded="false" aria-controls="footerSocial" class="footer-title collapsed">Puedes     Seguirnos</a>
                     <div id="footerSocial" role="tabpanel" class="footer-main collapse">
                       <ul class="mv-ul footer-main-inner list">
                         <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-facebook mv-color-facebook"></i></span>Facebook</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-twitter mv-color-twitter"></i></span>Twitter</span></a></li>
+												<li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-whatsapp mv-color-whatsapp"></i></span>Whatsapp</span></a></li>
+												<li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-instagram mv-color-instagram"></i></span>Instagram</span></a></li>
                         <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-youtube mv-color-youtube"></i></span>Youtube</span></a></li>
-                        <li class="item mv-icon-left-style-2"><a href="#"><span class="text"><span class="icon"><i class="fa fa-rss mv-color-rss"></i></span>Rss feed</span></a></li>
+                        
                       </ul>
                     </div>
                   </div>
@@ -94,7 +95,7 @@
                   </div>
 
                   <div class="col-sm-6 col-md-6 col-copyright">
-                    <div class="footer-copyright text-center">Copyright &copy; 2016 Motor Vehikal by<a href="http://www.joomlaux.com/" target="_blank"> JUXdesign.</a> All Rights Reserved.</div>
+                    <div class="footer-copyright text-center">Copyright &copy; 2020 LaSalvadoraHnos by<a href="https://www.facebook.com/alberto.vallejos3" target="_blank"> avs-design.</a> All Rights Reserved.</div>
                     <!-- .footer-copyright-->
                   </div>
 
