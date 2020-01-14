@@ -66,22 +66,24 @@
         <div class="container-fluid">
           <div class="mv-block-style-13">
             <div class="row block-13-list">
+
               <article class="col-xs-6 col-md-4 item post">
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
                     <div class="block-13-col-inner">
-                      <div class="block-13-thumb mv-effect-relative"><a href="product-detail.html" title="Polo Shirt - Black" class="block-13-thumb-link"><img src="<?=base_url();?>assets/images/productos/destacados/1800013.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/1798922.png" alt="demo" class="block-13-thumb-img mv-effect-item"/></a><a href="product-detail.html" title="Polo Shirt - Black" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a></div><img src="<?=base_url();?>assets/images/productos/destacados/crisa-logo.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                      <div class="block-13-thumb mv-effect-relative"><img src="<?=base_url();?>assets/images/productos/destacados/MSS35DB.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/MSS35DB.png" alt="demo" class="block-13-thumb-img mv-effect-item"/><span class="btn-inner"></span></div><img src="<?=base_url();?>assets/images/productos/destacados/logo-sunnex.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
                     </div>
                   </div>
 
                   <div class="mv-col block-13-col-main">
                     <div class="block-13-main">
-                      <div class="block-13-model"><a href="product-detail.html" title="Polo Shirt - Black" class="mv-overflow-ellipsis">Prueba 1</a></div>
-                      <div class="block-13-name"> <a href="product-detail.html" title="Polo Shirt - Black">Polo Shirt - Negro</a></div>
-                      <div class="block-13-desc hidden-xs">Lorem ipsum dolor sit amet, consectincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
+                      <div class="block-13-model">Termo</div>
+                      <div class="block-13-name"> Acero Inoxidable</div>
+                      <div class="block-13-desc hidden-xs">TERMO DE ACERO INOXIDABLE CAPACIDAD DE 3.5 LITROS</div>
                       <div class="block-13-price">
-                        <div class="old-price">$ 79.99</div>
-                        <div class="new-price">$ 50.00</div>
+                       <!-- <div class="old-price">Codigo :</div>-->
+											  <div class="new-price">Codigo:</div>
+                        <div class="new-price">4010</div>
                       </div>
                     </div>
                   </div>
@@ -92,18 +94,20 @@
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
                     <div class="block-13-col-inner">
-                      <div class="block-13-thumb mv-effect-relative"><a href="product-detail.html" title="Evo CE Boots - Green" class="block-13-thumb-link"><img src="<?=base_url();?>assets/images/demo/demo_26.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_114.png" alt="demo" class="block-13-thumb-img mv-effect-item"/></a><a href="product-detail.html" title="Evo CE Boots - Green" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a></div><img src="<?=base_url();?>assets/images/demo/demo_29.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                      <div class="block-13-thumb mv-effect-relative"><img src="<?=base_url();?>assets/images/productos/destacados/MSS10SB.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/MSS10SB.png" alt="demo" class="block-13-thumb-img mv-effect-item"/><span class="btn-inner"></span></div><img src="<?=base_url();?>assets/images/productos/destacados/logo-sunnex.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
                     </div>
                   </div>
 
                   <div class="mv-col block-13-col-main">
                     <div class="block-13-main">
-                      <div class="block-13-model"><a href="product-detail.html" title="Evo CE Boots - Green" class="mv-overflow-ellipsis">Tractech</a></div>
-                      <div class="block-13-name"> <a href="product-detail.html" title="Evo CE Boots - Green">Evo CE Boots - Green</a></div>
-                      <div class="block-13-desc hidden-xs">Lorem ipsum dolor sit amet, consectincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
+                      <div class="block-13-model">Jarra Termica </div>
+                      <div class="block-13-name"> Acero Inoxidable</div>
+                      <div class="block-13-desc hidden-xs">JARRA TERMICA, CAPACIDAD DE 1 LITRO</div>
                       <div class="block-13-price">
-                        <div class="old-price">$ 129.99</div>
-                        <div class="new-price">$ 120.00</div>
+                       <!-- <div class="old-price">Codigo :</div>-->
+											  <div class="new-price">Codigo: </div>
+												<br>
+                        <div class="new-price">479</div>
                       </div>
                     </div>
                   </div>
@@ -114,23 +118,26 @@
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
                     <div class="block-13-col-inner">
-                      <div class="block-13-thumb mv-effect-relative"><a href="product-detail.html" title="Matt Black" class="block-13-thumb-link"><img src="<?=base_url();?>assets/images/demo/demo_27.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_111.png" alt="demo" class="block-13-thumb-img mv-effect-item"/></a><a href="product-detail.html" title="Matt Black" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a></div><img src="<?=base_url();?>assets/images/demo/demo_30.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                      <div class="block-13-thumb mv-effect-relative"><img src="<?=base_url();?>assets/images/productos/destacados/MSS05EB.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/mss10sb.png" alt="demo" class="block-13-thumb-img mv-effect-item"/><span class="btn-inner"></span></div><img src="<?=base_url();?>assets/images/productos/destacados/logo-sunnex.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
                     </div>
                   </div>
 
                   <div class="mv-col block-13-col-main">
                     <div class="block-13-main">
-                      <div class="block-13-model"><a href="product-detail.html" title="Matt Black" class="mv-overflow-ellipsis">AGV K-3 SV</a></div>
-                      <div class="block-13-name"> <a href="product-detail.html" title="Matt Black">Matt Black</a></div>
-                      <div class="block-13-desc hidden-xs">Lorem ipsum dolor sit amet, consectincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
+                      <div class="block-13-model">Termo</div>
+                      <div class="block-13-name"> Acero Inoxidable</div>
+                      <div class="block-13-desc hidden-xs">TERMO EN FORMA DE BALA  CAPACIDAD DE 0.5 LITRO</div>
                       <div class="block-13-price">
-                        <div class="old-price">$ 234.99</div>
-                        <div class="new-price">$ 200.00</div>
+                       <!-- <div class="old-price">Codigo :</div>-->
+											  <div class="new-price">Codigo: </div>
+												<br>
+                        <div class="new-price">658</div>
                       </div>
                     </div>
                   </div>
                 </div>
               </article>
+
             </div>
           </div>
           <!-- .mv-block-style-13-->
@@ -146,7 +153,7 @@
           <!-- .featured-title-->
 
           <div class="featured-main mv-filter-style-2">
-            <div class="filter-button mv-btn-group">
+          <!--<div class="filter-button mv-btn-group">
               <div class="group-inner">
                 <button data-filter=".motor" class="mv-btn mv-btn-style-8 active">motor</button>
                 <button data-filter=".helmet" class="mv-btn mv-btn-style-8">helmet</button>
@@ -155,18 +162,19 @@
                 <button data-filter=".gear" class="mv-btn mv-btn-style-8">gear</button>
                 <button data-filter=".tires" class="mv-btn mv-btn-style-8">tires</button>
               </div>
-            </div>
+            </div>-->
             <!-- .filter-button-->
 
             <div class="row filter-list-warpper">
               <div class="filter-list mv-block-style-2">
                 <div class="block-2-list">
+
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_26.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_81.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -181,67 +189,23 @@
                         </div>
 
                         <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
+                           <div class="label-inner">Nuevo</div>
                         </div>
                       </div>
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
 
                       <div class="content-hover">
                         <div class="content-button mv-btn-group text-center">
                           <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </article>
-                  <!-- .post-->
-
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
-                    <div class="item-inner mv-effect-translate-right-left">
-                      <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="Rev'it Cyclone Waterproof Jacket - Neon Yellow"><img src="<?=base_url();?>assets/images/demo/demo_33.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_32.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="Rev'it Cyclone Waterproof Jacket - Neon Yellow" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
-
-                            <div class="content-message mv-message-style-1">
-                              <div class="message-inner"></div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
-                          <div class="rate-inner mv-f-14 text-left">
-                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                          </div>
-                        </div>
-
-                        <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
-                        </div>
-                      </div>
-
-                      <div class="content-main">
-                        <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="Rev'it Cyclone Waterproof Jacket - Neon Yellow" class="mv-overflow-ellipsis">Rev'it Cyclone Waterproof Jacket - Neon Yellow</a></div>
-                        </div>
-                      </div>
-
-                      <div class="content-hover">
-                        <div class="content-button mv-btn-group text-center">
-                          <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
                           </div>
                         </div>
                       </div>
@@ -252,9 +216,9 @@
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_6.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_14.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -269,23 +233,23 @@
                         </div>
 
                         <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
+                           <div class="label-inner">Nuevo</div>
                         </div>
                       </div>
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
 
                       <div class="content-hover">
                         <div class="content-button mv-btn-group text-center">
                           <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
                           </div>
                         </div>
                       </div>
@@ -296,9 +260,9 @@
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_63.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_62.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -313,37 +277,36 @@
                         </div>
 
                         <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
+                           <div class="label-inner">Nuevo</div>
                         </div>
                       </div>
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
 
                       <div class="content-hover">
                         <div class="content-button mv-btn-group text-center">
                           <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
                           </div>
                         </div>
                       </div>
                     </div>
                   </article>
-
                   <!-- .post-->
 
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_63.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_62.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -358,37 +321,36 @@
                         </div>
 
                         <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
+                           <div class="label-inner">Nuevo</div>
                         </div>
                       </div>
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
 
                       <div class="content-hover">
                         <div class="content-button mv-btn-group text-center">
                           <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
                           </div>
                         </div>
                       </div>
                     </div>
                   </article>
-                  
                   <!-- .post-->
 
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post helmet">
+                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_82.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_63.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -403,36 +365,172 @@
                         </div>
 
                         <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
+                           <div class="label-inner">Nuevo</div>
                         </div>
                       </div>
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
 
                       <div class="content-hover">
                         <div class="content-button mv-btn-group text-center">
                           <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
                           </div>
                         </div>
                       </div>
                     </div>
                   </article>
                   <!-- .post-->
+
+                 <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
+                    <div class="item-inner mv-effect-translate-right-left">
+                      <div class="content-default">
+
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+                            <div class="content-message mv-message-style-1">
+                              <div class="message-inner"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
+                          <div class="rate-inner mv-f-14 text-left">
+                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                          </div>
+                        </div>
+
+                        <div class="content-sale-off mv-label-style-4 label-primary">
+                           <div class="label-inner">Nuevo</div>
+                        </div>
+                      </div>
+
+                      <div class="content-main">
+                        <div class="content-text">
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
+                        </div>
+                      </div>
+
+                      <div class="content-hover">
+                        <div class="content-button mv-btn-group text-center">
+                          <div class="group-inner">
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+									
+                  <!-- .post-->
+
+                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
+                    <div class="item-inner mv-effect-translate-right-left">
+                      <div class="content-default">
+
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+                            <div class="content-message mv-message-style-1">
+                              <div class="message-inner"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
+                          <div class="rate-inner mv-f-14 text-left">
+                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                          </div>
+                        </div>
+
+                        <div class="content-sale-off mv-label-style-4 label-primary">
+                           <div class="label-inner">Nuevo</div>
+                        </div>
+                      </div>
+
+                      <div class="content-main">
+                        <div class="content-text">
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
+                        </div>
+                      </div>
+
+                      <div class="content-hover">
+                        <div class="content-button mv-btn-group text-center">
+                          <div class="group-inner">
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+                  <!-- .post-->
+
+                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
+                    <div class="item-inner mv-effect-translate-right-left">
+                      <div class="content-default">
+
+                        <div class="content-thumb">
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+                            <div class="content-message mv-message-style-1">
+                              <div class="message-inner"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
+                          <div class="rate-inner mv-f-14 text-left">
+                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
+                          </div>
+                        </div>
+
+                        <div class="content-sale-off mv-label-style-4 label-primary">
+                           <div class="label-inner">Nuevo</div>
+                        </div>
+                      </div>
+
+                      <div class="content-main">
+                        <div class="content-text">
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
+                        </div>
+                      </div>
+
+                      <div class="content-hover">
+                        <div class="content-button mv-btn-group text-center">
+                          <div class="group-inner">
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+                  <!-- .post-->
+
+                <!-- <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post motor">
+                    <div class="item-inner mv-effect-translate-right-left">
+                      <div class="content-default">
 
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post boots">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
                         <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_7.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_13.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
-
+												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -447,206 +545,33 @@
                         </div>
 
                         <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
+                           <div class="label-inner">Nuevo</div>
                         </div>
                       </div>
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
 
                       <div class="content-hover">
                         <div class="content-button mv-btn-group text-center">
                           <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
+                            <button type="button" title="Me Encanta" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
+                            <button type="button" title="Comparar" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
+                            <button type="button" title="Añadir al Carrito" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
                           </div>
                         </div>
                       </div>
                     </div>
-                  </article>
+                  </article>-->
                   <!-- .post-->
 
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post boots">
-                    <div class="item-inner mv-effect-translate-right-left">
-                      <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_81.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_97.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
-                            <div class="content-message mv-message-style-1">
-                              <div class="message-inner"></div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
-                          <div class="rate-inner mv-f-14 text-left">
-                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                          </div>
-                        </div>
-
-                        <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
-                        </div>
-                      </div>
-
-                      <div class="content-main">
-                        <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
-                        </div>
-                      </div>
-
-                      <div class="content-hover">
-                        <div class="content-button mv-btn-group text-center">
-                          <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </article>
                   <!-- .post-->
-
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post boots">
-                    <div class="item-inner mv-effect-translate-right-left">
-                      <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_110.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_105.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
-
-                            <div class="content-message mv-message-style-1">
-                              <div class="message-inner"></div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
-                          <div class="rate-inner mv-f-14 text-left">
-                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                          </div>
-                        </div>
-
-                        <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
-                        </div>
-                      </div>
-
-                      <div class="content-main">
-                        <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
-                        </div>
-                      </div>
-
-                      <div class="content-hover">
-                        <div class="content-button mv-btn-group text-center">
-                          <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </article>
-                  <!-- .post-->
-
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post boots">
-                    <div class="item-inner mv-effect-translate-right-left">
-                      <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_26.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_7.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
-
-                            <div class="content-message mv-message-style-1">
-                              <div class="message-inner"></div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
-                          <div class="rate-inner mv-f-14 text-left">
-                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                          </div>
-                        </div>
-
-                        <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
-                        </div>
-                      </div>
-
-                      <div class="content-main">
-                        <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
-                        </div>
-                      </div>
-
-                      <div class="content-hover">
-                        <div class="content-button mv-btn-group text-center">
-                          <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </article>
-                  <!-- .post-->
-
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post boots">
-                    <div class="item-inner mv-effect-translate-right-left">
-                      <div class="content-default">
-                        <div class="content-thumb">
-                          <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="RST Full Zipped Sweatshirt"><img src="<?=base_url();?>assets/images/demo/demo_44.png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/demo/demo_106.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
-
-                            <div class="content-message mv-message-style-1">
-                              <div class="message-inner"></div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div data-rate="true" data-score="5.0" class="content-rate mv-rate text-center">
-                          <div class="rate-inner mv-f-14 text-left">
-                            <div class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                            <div class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></div>
-                          </div>
-                        </div>
-
-                        <div class="content-sale-off mv-label-style-4 label-primary">
-                          <div class="label-inner">-25%</div>
-                        </div>
-                      </div>
-
-                      <div class="content-main">
-                        <div class="content-text">
-                          <div class="content-price"><span class="new-price">$ 128.24</span></div>
-                          <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">RST Full Zipped Sweatshirt</a></div>
-                        </div>
-                      </div>
-
-                      <div class="content-hover">
-                        <div class="content-button mv-btn-group text-center">
-                          <div class="group-inner">
-                            <button type="button" title="Add To Wishlist" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-wishlist"><i class="fa fa-heart-o"></i></button>
-                            <button type="button" title="Compare" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-compare"><i class="fa fa-signal"></i></button>
-                            <button type="button" title="Add To Cart" class="mv-btn mv-btn-style-3 responsive-btn-3-type-1 btn-add-to-cart"><i class="fa fa-cart-plus"></i></button>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </article>
-                  <!-- .post-->
-
+									<!--
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post protection">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
@@ -688,10 +613,10 @@
                         </div>
                       </div>
                     </div>
-                  </article>
+                  </article>-->
                   <!-- .post-->
 
-                  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post protection">
+                <!--  <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post protection">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
                         <div class="content-thumb">
@@ -732,9 +657,9 @@
                         </div>
                       </div>
                     </div>
-                  </article>
+                  </article>-->
                   <!-- .post-->
-
+							<!--
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post gear">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
@@ -776,9 +701,9 @@
                         </div>
                       </div>
                     </div>
-                  </article>
+                  </article>-->
                   <!-- .post-->
-
+										<!--
                   <article class="col-xs-6 col-sm-4 col-md-3 item item-filter-home-3 filter-item post tires">
                     <div class="item-inner mv-effect-translate-right-left">
                       <div class="content-default">
@@ -820,7 +745,7 @@
                         </div>
                       </div>
                     </div>
-                  </article>
+                  </article>-->
                 </div>
               </div>
             </div>
@@ -834,13 +759,13 @@
       <section class="home-3-shop mv-wrap">
         <div class="container-fluid">
           <div class="mv-block-style-14">
-            <div class="block-14-main text-center"><img src="<?=base_url();?>assets/images/demo/demo_37.png" alt="demo" class="img-top"/>
+            <div class="block-14-main text-center"><img src="<?=base_url();?>assets/images/productos/ofertas/logo-sunnex.png" alt="demo" class="img-top"/>
               <div class="block-14-content mv-title-style-3 f-300">
-                <div class="title-3-text"><span class="behind">shock</span><span class="main"> <span class="sub-2">discount</span><span>shock</span><span class="sub">Moletom Alpinnestars Headline Preto</span></span></div>
-              </div><a href="product-grid-3.html" class="mv-btn mv-btn-style-1 responsive-btn-1-type-2 shop-now-button"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>
+                <div class="title-3-text"><span class="behind">Locura|</span><span class="main"> <span class="sub-2">Descuento</span><span>Locura</span><span class="sub">CALENTADOR ELECTRICO DE 10 LITROS CON TAPA Y CON CUCHARON</span></span></div>
+              <!--</div><a href="product-grid-3.html" class="mv-btn mv-btn-style-1 responsive-btn-1-type-2 shop-now-button"><span class="btn-inner"><i class="btn-icon fa fa-cart-plus"></i><span class="btn-text">shop now</span></span></a>-->
             </div>
             <!-- .block-14-main-->
-<img src="<?=base_url();?>assets/images/demo/demo_35.png" alt="demo" class="block-14-img left hidden-xs hidden-sm"/><img src="<?=base_url();?>assets/images/demo/demo_36.png" alt="demo" class="block-14-img right hidden-xs hidden-sm"/>
+             <img src="<?=base_url();?>assets/images/productos/ofertas/82328L.png" alt="demo" class="block-14-img left hidden-xs hidden-sm"/><img src="<?=base_url();?>assets/images/productos/ofertas/82328L.png" alt="demo" class="block-14-img right hidden-xs hidden-sm"/>
           </div>
           <!-- .mv-block-style-14-->
         </div>
@@ -850,7 +775,7 @@
       <section class="home-3-new-trending-item mv-wrap">
         <div class="container-fluid">
           <div class="new-trending-item-title mv-title-style-2 title-home-3">
-            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/icon_m_3.png" alt="icon" class="icon image-live-view"/><span class="main">new trending item</span><span class="sub">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</span></div>
+            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/icon_m_3.png" alt="icon" class="icon image-live-view"/><span class="main">Nuevos Productos</span><span class="sub">Llegaron Nuevos productos nos puedes visitar en nuestras Diferentes Sucursales</span></div>
           </div>
           <!-- .new-trending-item-title-->
 
