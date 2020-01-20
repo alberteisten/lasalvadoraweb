@@ -1242,7 +1242,7 @@
       <section class="home-3-latest-news mv-wrap">
         <div class="container">
           <div class="latest-news-title mv-title-style-2 title-home-3">
-            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/icon_m_3.png" alt="icon" class="icon image-live-view"/><span class="main">Latest blogs</span><span class="sub">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod <br/>tincidunt ut laoreet dolore magna aliquam erat volutpat</span></div>
+            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/icon_m_3.png" alt="icon" class="icon image-live-view"/><span class="main">Ultimos Blogs</span><span class="sub">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod <br/>tincidunt ut laoreet dolore magna aliquam erat volutpat</span></div>
           </div>
           <!-- .latest-news-title-->
 
@@ -1250,7 +1250,9 @@
             <div class="latest-news-list">
               <div class="mv-block-style-15">
                 <div class="row block-15-list mv-list-blog">
-                  <article class="col-xs-6 col-sm-4 item item-home-3-latest-news post">
+               
+							 
+							   <!--<article class="col-xs-6 col-sm-4 item item-home-3-latest-news post">
                     <div class="item-inner">
                       <div class="item-inner-relative">
                         <div class="block-15-thumb">
@@ -1258,7 +1260,7 @@
                         </div>
                         <!-- .block-15-thumb-->
 
-                        <div class="block-15-main">
+                      <!--  <div class="block-15-main">
                           <div class="block-15-main-inner">
                             <div class="block-15-title"><a href="blog-detail.html" title="Lamcorper suscipit lobortis nisl ut aliquip ex ea" class="mv-overflow-ellipsis">Lamcorper suscipit lobortis nisl ut aliquip ex ea</a></div>
                             <ul class="block-15-meta mv-ul">
@@ -1271,12 +1273,12 @@
                           </div>
                         </div>
                         <!-- .block-15-main-->
-                      </div>
+                    <!--  </div>
                     </div>
-                  </article>
+                  </article>-->
                   <!-- .post-->
 
-                  <article class="col-xs-6 col-sm-4 item item-home-3-latest-news post">
+                 <!-- <article class="col-xs-6 col-sm-4 item item-home-3-latest-news post">
                     <div class="item-inner">
                       <div class="item-inner-relative">
                         <div class="block-15-thumb">
@@ -1284,7 +1286,7 @@
                         </div>
                         <!-- .block-15-thumb-->
 
-                        <div class="block-15-main">
+                       <!-- <div class="block-15-main">
                           <div class="block-15-main-inner">
                             <div class="block-15-title"><a href="blog-detail.html" title="Lamcorper suscipit lobortis nisl ut aliquip ex ea" class="mv-overflow-ellipsis">Lamcorper suscipit lobortis nisl ut aliquip ex ea</a></div>
                             <ul class="block-15-meta mv-ul">
@@ -1297,12 +1299,12 @@
                           </div>
                         </div>
                         <!-- .block-15-main-->
-                      </div>
+                   <!--   </div>
                     </div>
-                  </article>
+                  </article> -->
                   <!-- .post-->
 
-                  <article class="col-xs-6 col-sm-4 item item-home-3-latest-news post hidden-xs">
+                <!--  <article class="col-xs-6 col-sm-4 item item-home-3-latest-news post hidden-xs">
                     <div class="item-inner">
                       <div class="item-inner-relative">
                         <div class="block-15-thumb">
@@ -1310,7 +1312,7 @@
                         </div>
                         <!-- .block-15-thumb-->
 
-                        <div class="block-15-main">
+                     <!--   <div class="block-15-main">
                           <div class="block-15-main-inner">
                             <div class="block-15-title"><a href="blog-detail.html" title="Lamcorper suscipit lobortis nisl ut aliquip ex ea" class="mv-overflow-ellipsis">Lamcorper suscipit lobortis nisl ut aliquip ex ea</a></div>
                             <ul class="block-15-meta mv-ul">
@@ -1323,9 +1325,9 @@
                           </div>
                         </div>
                         <!-- .block-15-main-->
-                      </div>
+                      <!--</div>
                     </div>
-                  </article>
+                  </article> -->
                   <!-- .post-->
                 </div>
               </div>
@@ -1336,7 +1338,7 @@
         </div>
       </section>
       <!-- .home-3-latest-news-->
-
+			<!--
       <section class="home-3-testimonial mv-wrap">
         <div class="container">
           <div class="testimonial-main">
@@ -1386,12 +1388,12 @@
               </div>
             </div>
             <!-- .mv-block-style-16-->
-          </div>
+         <!-- </div>
         </div>
-      </section>
+      </section> -->
       <!-- .home-3-testimonial-->
 
-      <section class="home-3-logo-brand mv-wrap">
+    <!--  <section class="home-3-logo-brand mv-wrap">
         <div class="container">
           <div class="logo-brand-main">
             <div class="mv-block-style-17">
@@ -1453,17 +1455,17 @@
                   </div>
                   <!-- .block-17-main-inner-->
 
-                  <button id="home-3-logo-brand-slider-prev" type="button" class="mv-slider-control-btn prev mv-btn mv-btn-style-3 responsive-btn-3-type-1 hidden-lg"><i class="btn-icon fa fa-angle-left"></i></button>
+           <!--       <button id="home-3-logo-brand-slider-prev" type="button" class="mv-slider-control-btn prev mv-btn mv-btn-style-3 responsive-btn-3-type-1 hidden-lg"><i class="btn-icon fa fa-angle-left"></i></button>
                   <button id="home-3-logo-brand-slider-next" type="button" class="mv-slider-control-btn next mv-btn mv-btn-style-3 responsive-btn-3-type-1 hidden-lg"><i class="btn-icon fa fa-angle-right"></i></button>
                 </div>
                 <!-- .block-17-main-->
-              </div>
+            <!--  </div>
               <!-- .home-3-logo-brand-slider-->
-            </div>
+          <!--  </div>
             <!-- .mv-block-style-17-->
-          </div>
+         <!-- </div>
         </div>
-      </section>
+      </section> -->
       <!-- .home-3-logo-brand-->
 
       <section class="main-newsletter mv-newsletter-style-3 mv-wrap">
