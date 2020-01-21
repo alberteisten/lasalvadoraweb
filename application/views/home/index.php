@@ -1020,7 +1020,85 @@
 
       
       <!-- .home-3-latest-news-->
-		
+			<section class="home-3-logo-brand mv-wrap">
+        <div class="container">
+
+ 					<div class="new-trending-item-title mv-title-style-2 title-home-3">
+            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/logoAlter.png" alt="icon" class="icon image-live-view"/><span class="main">Nuestras Marcas</span><span class="sub">Importamos de las Marcas mas reconocidas en el Mundo</span></div>
+          </div>
+          <div class="logo-brand-main">
+            <div class="mv-block-style-17">
+              <div id="home-3-logo-brand-slider" class="home-3-logo-brand-slider mv-caroufredsel">
+                <div class="block-17-slider-inner">
+                  <div class="row">
+                    <ul class="mv-slider-wrapper">
+
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/1.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/2.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/3.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/4.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/5.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/6.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/7.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/8.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <!--<li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>
+                      <li class="mv-slider-item col-xs-6 col-sm-4 col-md-2">
+                        <div class="mv-dp-table align-middle slider-item-inner">
+                          <div class="mv-dp-table-cell"><a href="#" target="_blank"><img src="<?=base_url();?>assets/images/logo-brand/logo_brand_5.png" alt="logo_brand"/></a></div>
+                        </div>
+                      </li>-->
+                    </ul>
+                  </div>
+                  <!-- .block-17-main-inner-->
+
+                  <button id="home-3-logo-brand-slider-prev" type="button" class="mv-slider-control-btn prev mv-btn mv-btn-style-3 responsive-btn-3-type-1 hidden-lg"><i class="btn-icon fa fa-angle-left"></i></button>
+                  <button id="home-3-logo-brand-slider-next" type="button" class="mv-slider-control-btn next mv-btn mv-btn-style-3 responsive-btn-3-type-1 hidden-lg"><i class="btn-icon fa fa-angle-right"></i></button>
+                </div>
+                <!-- .block-17-main-->
+              </div>
+              <!-- .home-3-logo-brand-slider-->
+            </div>
+            <!-- .mv-block-style-17-->
+          </div>
+        </div>
+      </section>
       <!-- .home-3-logo-brand-->
 
       <section class="main-newsletter mv-newsletter-style-3 mv-wrap">
