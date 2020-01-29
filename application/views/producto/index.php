@@ -19,9 +19,9 @@
         <div class="mv-breadcrumb-style-1">
           <div class="container">
             <ul class="breadcrumb-1-list">
-              <li><a href="index.html"><i class="fa fa-home"></i></a></li>
-              <li><a href="product-grid-3.html">Product</a></li>
-              <li><a>Product 3 columns</a></li>
+              <li><a href="index.php"><i class="fa fa-home"></i></a></li>
+              <li><a href="\producto\index.php">Productos</a></li>
+             <!-- <li><a></a></li>-->
             </ul>
           </div>
         </div>
@@ -42,7 +42,7 @@
                     <article class="col-xs-6 col-sm-4 col-md-6 col-lg-4 item item-product-grid-3 post">
                         <div class="item-inner mv-effect-translate-1 mv-box-shadow-gray-1">
                         <div style="background-color: #fff;" class="content-thumb">
-                            <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="<?=$value["descripcion_facilito"]?>"><img src="<?=base_url();?>assets/images/productos/<?=$value["codigo"]?>.jpg" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="<?=$value["descripcion_facilito"]?>" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+                            <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="<?=$value["descripcion_facilito"]?>"><img src="<?=base_url();?>assets/images/productos/<?=$value["codigo"]?>.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="<?=$value["descripcion_facilito"]?>" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
                             <div class="content-message mv-message-style-1">
                                 <div class="message-inner"></div>

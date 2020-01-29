@@ -66,7 +66,7 @@
         <div class="container-fluid">
           <div class="mv-block-style-13">
             <div class="row block-13-list">
-
+						<!-- uno -->
               <article class="col-xs-6 col-md-4 item post">
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
@@ -89,7 +89,7 @@
                   </div>
                 </div>
               </article>
-
+								<!-- dos -->
               <article class="col-xs-6 col-md-4 item post">
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
@@ -113,7 +113,7 @@
                   </div>
                 </div>
               </article>
-
+								<!-- tres -->
               <article class="col-xs-6 col-md-4 item post">
                 <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
                   <div class="mv-col block-13-col-thumb">
@@ -137,6 +137,82 @@
                   </div>
                 </div>
               </article>
+
+							<!-- cuatro -->
+							<article class="col-xs-6 col-md-4 item post">
+                <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
+                  <div class="mv-col block-13-col-thumb">
+                    <div class="block-13-col-inner">
+                      <div class="block-13-thumb mv-effect-relative"><img src="<?=base_url();?>assets/images/productos/destacados/1700912.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/1700912.png" alt="demo" class="block-13-thumb-img mv-effect-item"/><span class="btn-inner"></span></div><img src="<?=base_url();?>assets/images/productos/destacados/crisa-logo.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                    </div>
+                  </div>
+
+                  <div class="mv-col block-13-col-main">
+                    <div class="block-13-main">
+                      <div class="block-13-model">Juego</div>
+                      <div class="block-13-name"> Cristaleria</div>
+                      <div class="block-13-desc hidden-xs">Juego de Agua de 7 Piezas de  MEXICO LIMONES </div>
+                      <div class="block-13-price">
+                       <!-- <div class="old-price">Codigo :</div>-->
+											  <div class="new-price">Codigo: </div>
+												<br>
+                        <div class="new-price">995</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </article>
+								<!-- cinco -->
+							<article class="col-xs-6 col-md-4 item post">
+                <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
+                  <div class="mv-col block-13-col-thumb">
+                    <div class="block-13-col-inner">
+                      <div class="block-13-thumb mv-effect-relative"><img src="<?=base_url();?>assets/images/productos/destacados/1700886.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/1700886.png" alt="demo" class="block-13-thumb-img mv-effect-item"/><span class="btn-inner"></span></div><img src="<?=base_url();?>assets/images/productos/destacados/crisa-logo.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                    </div>
+                  </div>
+
+                  <div class="mv-col block-13-col-main">
+                    <div class="block-13-main">
+                      <div class="block-13-model">Juego</div>
+                      <div class="block-13-name"> Cristaleria</div>
+                      <div class="block-13-desc hidden-xs">Juego de 6 Vasos COSMOS FONDO ATOMIZADO</div>
+                      <div class="block-13-price">
+                       <!-- <div class="old-price">Codigo :</div>-->
+											  <div class="new-price">Codigo: </div>
+												<br>
+                        <div class="new-price">917</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </article>
+						<!-- seis -->
+							<article class="col-xs-6 col-md-4 item post">
+                <div class="mv-col-wrapper item-inner mv-effect-translate-right-left">
+                  <div class="mv-col block-13-col-thumb">
+                    <div class="block-13-col-inner">
+                      <div class="block-13-thumb mv-effect-relative"><img src="<?=base_url();?>assets/images/productos/destacados/1702049.png" alt="demo" class="block-13-thumb-img mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/destacados/1702049.png" alt="demo" class="block-13-thumb-img mv-effect-item"/><span class="btn-inner"></span></div><img src="<?=base_url();?>assets/images/productos/destacados/crisa-logo.png" alt="demo" onclick="$(this).remove()" class="block-13-logo"/>
+                    </div>
+                  </div>
+
+                  <div class="mv-col block-13-col-main">
+                    <div class="block-13-main">
+                      <div class="block-13-model">Jarra</div>
+                      <div class="block-13-name"> Cristaleria</div>
+                      <div class="block-13-desc hidden-xs">JARRA PITCHER DE 1.8 Lt COSMOS </div>
+                      <div class="block-13-price">
+                       <!-- <div class="old-price">Codigo :</div>-->
+											  <div class="new-price">Codigo: </div>
+												<br>
+                        <div class="new-price">896</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </article>
+
+
+
 
             </div>
           </div>
@@ -775,7 +851,7 @@
      <section class="home-3-new-trending-item mv-wrap">
         <div class="container-fluid">
           <div class="new-trending-item-title mv-title-style-2 title-home-3">
-            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/icon_m_3.png" alt="icon" class="icon image-live-view"/><span class="main">Productos En Oferta</span><span class="sub">Productos en Oferta, La Salvadora Pensando en Tu Hogar</span></div>
+            <div class="title-2-inner"><img src="<?=base_url();?>assets/images/icon/logo-lasalvadora2.png" alt="icon" class="icon image-live-view"/><span class="main">Productos En Oferta</span><span class="sub">Productos en Oferta, La Salvadora Pensando en Tu Hogar</span></div>
           </div>
           <!-- .new-trending-item-title-->
 
