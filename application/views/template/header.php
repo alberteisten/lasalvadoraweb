@@ -155,17 +155,17 @@ window.smartsupp||(function(d) {
                         <li><a href="checkout.html">Noticias</a></li>
                       </ul>
                     </li>
-                    <li><a href="#"><span class="menu-text">Catálogo<i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <li><a href="#"><span class="menu-text">Catálogos<i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
-                        <li><a href="blog-list.html">Catalogo 2019</a></li>
-                        <li><a href="blog-grid-2.html">Catalogo 2020</a></li>
+                        <li><a href="blog-list.html">Catálogo 2019</a></li>
+                        <li><a href="blog-grid-2.html">Catálogo 2020</a></li>
                       </ul>
                     </li>
-                    <li><a href="about-us.html"><span class="menu-text">Acerca De</span></a></li>
+                    <li><a href="acercade"><span class="menu-text">Acerca De</span></a></li>
                    <!-- <li><a href="contact.html"><span class="menu-text">Contactenos</span></a></li>-->
                     <li><a href="#"><span class="menu-text">Contactenos <i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul class="dropdown-left">
-                        <li><a href="login.html">Casa Matriz</a></li><!--
+                        <li><a href="sanmiguel">Casa Matriz</a></li><!--
                         <li><a href="forgot-password.html">Forgot Password</a></li>
                         <li><a href="faqs.html">Faqs</a></li>
                         <li><a href="newsletter.html">Newsletter</a></li>
@@ -174,20 +174,8 @@ window.smartsupp||(function(d) {
                         <li><a href="error-page.html">Error Page</a></li>-->
                         <li><a href="#"><span class="menu-text">Sucursales<i class="menu-icon fa fa-angle-down"></i></span></a>
                           <ul>
-														<li><a href="#">Suc-Ortega</a></li>
-														<li><a href="#">Suc-Camacho</a></li>
-                            <!--<li><a href="#"><span class="menu-text">Ortega<i class="menu-icon fa fa-angle-down"></i></span></a>
-                              <ul>
-                                <li><a href="#">Example menu item</a></li>
-                                <li><a href="#">Example menu item</a></li>
-                              </ul>
-                            </li>
-                            <li><a href="#"><span class="menu-text">Camacho<i class="menu-icon fa fa-angle-down"></i></span></a>
-                              <ul class="dropdown-left">
-                                <li><a href="#">Example menu item</a></li>
-                                <li><a href="#">Example menu item</a></li>
-                              </ul>
-                            </li>-->
+														<li><a href="ortega">Suc-Ortega</a></li>
+														<li><a href="camacho">Suc-Camacho</a></li>
                           </ul>
                         </li>
                       </ul>

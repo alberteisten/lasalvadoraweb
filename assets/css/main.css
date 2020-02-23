@@ -234,7 +234,7 @@ h6 {
   position: absolute;
   left: 0;
   top: 0;
-  right: auto;
+  right:auto;
   bottom: auto;
   width: 100%;
   height: 100%;
@@ -1343,7 +1343,7 @@ h6 {
 .mv-banner-style-1 {
   display: block;
   width: 100%;
-  height: 400px;
+  height: 150px;
   background-repeat: no-repeat;
   background-size: cover;
 }

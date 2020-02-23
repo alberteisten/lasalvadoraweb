@@ -10,4 +10,6 @@ class Home extends CI_Controller {
         $datos['footers'] = $this->load->view('template/footer','', TRUE);
         $this->load->view('home/index', $datos);
 	}
+
+	
 }
