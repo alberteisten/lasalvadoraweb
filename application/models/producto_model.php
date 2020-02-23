@@ -13,7 +13,15 @@
             $sql="select * from producto where id_grupo = ".$id_grupo.";";
             $consulta = $this->db->query($sql);
             return	$consulta->result_array();
-        }
+		}
+		public function get_busqueda($clave){
+			$sql= "select p.*
+					from producto p
+					inner join producto_grupo g on g.id = p.id_grupo
+					where id_producto like '%$clave%' OR p.descripcion_facilito like '%$clave%';";            
+            $consulta = $this->db->query($sql);
+            return	$consulta->result_array();
+		}
         
     }
     

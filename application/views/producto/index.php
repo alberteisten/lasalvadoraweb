@@ -30,6 +30,13 @@
 
       <section class="mv-main-body product-grid-3-main mv-bg-gray mv-wrap">
         <div class="container">
+				<?php  
+				if(isset($busqueda)) {
+			?> 
+					<h3><?= count($productos) ?> productos encontrados</h3>
+			<?php
+				} 
+					?> 
           <div class="row mv-content-sidebar">
             <div class="mv-c-s-content col-xs-12 col-md-8 col-lg-9">
               <div class="row mv-list-product-wrapper mv-block-style-9" >
@@ -116,11 +123,21 @@
             <div class="mv-c-s-sidebar col-xs-12 col-md-4 col-lg-3 hidden-xs hidden-sm">
               <div class="mv-c-s-sidebar-inner">
                 <div class="mv-aside mv-aside-search">
-                  <div class="aside-title mv-title-style-11">search</div>
+                  <div class="aside-title mv-title-style-11">BUSCAR</div>
                   <div class="aside-body">
-                    <form method="GET" class="form-aside-search">
+                    <form method="GET" class="form-aside-search" action="<?= base_url() ?>Producto/busqueda">
                       <div class="mv-inputbox-icon right">
-                        <input type="text" name="test138" class="mv-inputbox mv-inputbox-style-2"/>
+											<?php  
+												if(isset($busqueda)) {
+											?> 
+													<input type="text" name="txtbusqueda" required class="mv-inputbox mv-inputbox-style-2" value= "<?= $busqueda ?>" />
+											<?php
+												} else {
+													?> 
+													<input type="text" name="txtbusqueda" required class="mv-inputbox mv-inputbox-style-2"/>	
+											<?php
+												}
+											?>
                         <button type="submit" class="icon mv-btn mv-btn-style-4 fa fa-search"></button>
                       </div>
                     </form>
