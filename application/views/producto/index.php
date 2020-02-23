@@ -642,22 +642,7 @@
     </div>
     <!-- .mv-site-->
 
-    <div class="popup-wrapper">
-      <div id="popupSearch" tabindex="-1" role="dialog" aria-hidden="true" class="popup-search modal fade modal-effect-zoom mv-modal-style-2">
-        <div class="modal-dialog modal-lg">
-          <div class="modal-content">
-            <form method="GET" action="/motor_vehikal_html/search.html" class="form-search">
-              <div class="mv-inputbox-icon right">
-                <input type="text" name="test138" data-mv-placeholder="Type here and enter to search" placeholder="Type here and enter to search" class="mv-inputbox mv-inputbox-style-5"/>
-                <button type="submit" class="icon mv-btn mv-btn-style-4"><i class="fa fa-search"></i></button>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-      <!-- .popup-search-->
-    </div>
-    <!-- .popup-wrapper-->
+    
 
 </body>
 
