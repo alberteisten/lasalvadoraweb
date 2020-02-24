@@ -12,7 +12,23 @@
                         <div class="block-26-gallery-main">
                           <div class="slider gallery-main">
                             <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/productos/<?=$producto[0]['imagen']?>" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/productos/<?=$producto[0]['codigo']?>.png" alt="demo" class="block-26-main-img"/></a></div>
+                              <div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" alt="demo" class="block-26-main-img"/></a></div>
+                            </div>
+                            <!-- .slick-slide-->
+
+                            <div class="slick-slide">
+														<div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" alt="demo" class="block-26-main-img"/></a></div>
+                            </div>
+                            <!-- .slick-slide-->
+
+                            <div class="slick-slide">
+														<div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-main-img"/></a></div>
+                            </div>
+                            <!-- .slick-slide-->
+
+
+                            <div class="slick-slide">
+                              <div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-main-img"/></a></div>
                             </div>
                             <!-- .slick-slide-->
 
@@ -26,41 +42,7 @@
                             </div>
                             <!-- .slick-slide-->
 
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_121.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_121.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_122.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_122.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_118.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_118.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_119.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_119.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_120.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_120.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_121.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_121.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_122.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_122.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
+                          
                           </div>
                         </div>
                         <!-- .block-26-gallery-main-->
@@ -69,43 +51,15 @@
                           <div class="block-26-gallery-thumbs-inner">
                             <div class="slider gallery-thumbs">
                               <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_118.png" alt="demo" class="block-26-thumbs-img"/></div>
+                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" alt="demo" class="block-26-thumbs-img"/></div>
                               </div>
 
                               <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_119.png" alt="demo" class="block-26-thumbs-img"/></div>
+                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" alt="demo" class="block-26-thumbs-img"/></div>
                               </div>
 
                               <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_120.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_121.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_122.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_118.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_119.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_120.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_121.png" alt="demo" class="block-26-thumbs-img"/></div>
-                              </div>
-
-                              <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="<?=base_url();?>assets/images/demo/demo_122.png" alt="demo" class="block-26-thumbs-img"/></div>
+                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-thumbs-img"/></div>
                               </div>
 
                             </div>
