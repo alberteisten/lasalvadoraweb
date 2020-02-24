@@ -49,7 +49,7 @@
                     <article class="col-xs-6 col-sm-4 col-md-6 col-lg-4 item item-product-grid-3 post">
                         <div class="item-inner mv-effect-translate-1 mv-box-shadow-gray-1">
                         <div style="background-color: #fff;" class="content-thumb">
-                            <div class="thumb-inner mv-effect-relative"><a href="product-detail.html" title="<?=$value["descripcion_facilito"]?>"><img src="<?=base_url();?>assets/images/productos/<?=$value["codigo"]?>.png" alt="demo" class="mv-effect-item"/></a><a href="product-detail.html" title="<?=$value["descripcion_facilito"]?>" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+                            <div class="thumb-inner mv-effect-relative"><a href="<?=base_url();?>Producto/detalle_producto/<?=$value['id_producto']?>" title="<?=$value["descripcion_facilito"]?>"><img src="<?=base_url();?>assets/images/productos/<?=$value["codigo"]?>.png" alt="demo" class="mv-effect-item"/></a><a href="<?=base_url();?>Producto/detalle_producto/<?=$value['id_producto']?>" title="<?=$value["descripcion_facilito"]?>" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
 
                             <div class="content-message mv-message-style-1">
                                 <div class="message-inner"></div>

@@ -21,8 +21,13 @@
 					where id_producto like '%$clave%' OR p.descripcion_facilito like '%$clave%';";            
             $consulta = $this->db->query($sql);
             return	$consulta->result_array();
-		}
+        }
         
+        public function get_detalle_producto($id_producto){
+            $sql="select * from producto where id_producto = ".$id_producto.";";
+            $consulta = $this->db->query($sql);
+            return	$consulta->result_array();
+		}
     }
     
 ?>

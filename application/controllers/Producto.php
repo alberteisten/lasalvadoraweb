@@ -28,5 +28,13 @@ class Producto extends CI_Controller {
 		$datos['busqueda'] = $txtbusqueda;
 		$this->load->view('producto/index',$datos);
 	}
+
+	public function detalle_producto($id_producto = 1) {
+		$datos['headers'] = $this->load->view('template/header','', TRUE);
+		$datos['footers'] = $this->load->view('template/footer','', TRUE);
+		$datos['producto'] = $this->producto_model->get_detalle_producto($id_producto);
+		
+		$this->load->view('producto/detalle_producto',$datos);
+	}
 	
 }
