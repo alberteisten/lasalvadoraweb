@@ -83,7 +83,7 @@
                       <div class="block-13-price">
                        <!-- <div class="old-price">Codigo :</div>-->
 											  <div class="new-price">Codigo:</div>
-                        <div class="new-price">4010</div>
+                        <div class="new-price">4251</div>
                       </div>
                     </div>
                   </div>
@@ -250,7 +250,8 @@
                       <div class="content-default">
 
                         <div class="content-thumb">
-												  <div class="thumb-inner mv-effect-relative"><a href="detalle_Producto.html" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="detalle_Producto.html" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+												  <div class="thumb-inner mv-effect-relative"><a href="<?=base_url();?>producto" title="Caja para Pan"><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item active"/><img src="<?=base_url();?>assets/images/productos/Nuevos/FTC173(S).png" alt="demo" class="mv-effect-item"/></a><a href="<?=base_url();?>producto" title="Mas Detalles" class="mv-btn mv-btn-style-25 btn-readmore-plus hidden-xs"><span class="btn-inner"></span></a>
+                          <!-- <li><a href="<?=base_url();?>producto"><span class="menu-text">Productos</span></a></li>-->
                             <div class="content-message mv-message-style-1">
                               <div class="message-inner"></div>
                             </div>
@@ -271,7 +272,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4082 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4323 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CAJA PARA PAN</a></div>
                         </div>
                       </div>
@@ -315,7 +316,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4080 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4321 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">PORTA UTENCILIOS</a></div>
                         </div>
                       </div>
@@ -359,7 +360,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4065 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4306 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">CONTENEDOR A PEDAL</a></div>
                         </div>
                       </div>
@@ -403,7 +404,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4079 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4320 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">ESCURRIDOR DE PLATOS</a></div>
                         </div>
                       </div>
@@ -447,7 +448,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4071 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4312 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">SERVILLETERO DE HIERRO</a></div>
                         </div>
                       </div>
@@ -491,7 +492,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4070 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4311 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">SERVILLETERO EN HIERRO</a></div>
                         </div>
                       </div>
@@ -536,7 +537,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4069 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4310 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">SERVILLETERO CROMADO</a></div>
                         </div>
                       </div>
@@ -580,7 +581,7 @@
 
                       <div class="content-main">
                         <div class="content-text">
-                          <div class="content-price"><span class="new-price">Codigo: 4067 </span></div>
+                          <div class="content-price"><span class="new-price">Codigo: 4308 </span></div>
                           <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">PAPELERO MALLA DE HIERRO</a></div>
                         </div>
                       </div>
@@ -931,7 +932,7 @@
 
                         <div class="content-main">
                           <div class="content-text">
-                            <div class="content-price"><span class="new-price">Codigo: 4020</span></div>
+                            <div class="content-price"><span class="new-price">Codigo: 4261</span></div>
                             <div class="content-desc"><a href="product-detail.html" title="Mini canasta" class="mv-overflow-ellipsis">Canasta para freir mini cuadrado </a></div>
                           </div>
                         </div>
@@ -975,7 +976,7 @@
 
                         <div class="content-main">
                           <div class="content-text">
-                            <div class="content-price"><span class="new-price">Codigo: 4021</span></div>
+                            <div class="content-price"><span class="new-price">Codigo: 4262</span></div>
                             <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">Canasta para freir Mini Rectangular</a></div>
                           </div>
                         </div>
@@ -1019,7 +1020,7 @@
 
                         <div class="content-main">
                           <div class="content-text">
-                            <div class="content-price"><span class="new-price">Codigo: 4022</span></div>
+                            <div class="content-price"><span class="new-price">Codigo: 4263</span></div>
                             <div class="content-desc"><a href="product-detail.html" title="RST Full Zipped Sweatshirt" class="mv-overflow-ellipsis">Canasta Para Freir Mini Rectangular</a></div>
                           </div>
                         </div>

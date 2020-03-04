@@ -14963,6 +14963,8 @@ select option.option-please-select {
   overflow-x: hidden;
   overflow-y: auto;
   text-align: justify;
+  font-size:18px;
+
 }
 @media screen and (max-width: 991px) {
   .mv-block-style-34 .block-34-content {

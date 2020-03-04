@@ -33,7 +33,7 @@ class Producto extends CI_Controller {
 		$datos['headers'] = $this->load->view('template/header','', TRUE);
 		$datos['footers'] = $this->load->view('template/footer','', TRUE);
 		$datos['producto'] = $this->producto_model->get_detalle_producto($id_producto);
-		
+		$datos['grupo'] = $this->producto_grupo->get_por_id($datos['producto'][0]['id_grupo']);
 		$this->load->view('producto/detalle_producto',$datos);
 	}
 	

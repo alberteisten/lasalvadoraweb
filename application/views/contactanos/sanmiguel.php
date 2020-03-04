@@ -103,13 +103,14 @@
 
                 <div class="block-32-form-main">
 
-                  <form method="GET" class="form-contact mv-form-horizontal">
+                  <form action="<?=base_url()?>Contactanos/email"  method="post"  class="form-contact mv-form-horizontal" >
+                    <input type="hidden" name="sucursal" value="san miguel">
                     <div class="row">
                       <div class="col-sm-6">
                         <div class="mv-form-group">
                           <div class="col-md-2 mv-label"> <strong class="text-uppercase">Nombre</strong></div>
                           <div class="col-md-10 mv-field">
-                            <input placeholder="Ingrese su Nombre" type="text" name="test127" class="mv-inputbox mv-inputbox-style-1"/>
+                            <input placeholder="Ingrese su Nombre" type="text" name="nombre" class="mv-inputbox mv-inputbox-style-1"/>
                           </div>
                         </div>
                       </div>
@@ -118,7 +119,7 @@
                         <div class="mv-form-group">
                           <div class="col-md-2 mv-label"> <strong class="text-uppercase">Celular</strong></div>
                           <div class="col-md-10 mv-field">
-                            <input placeholder="Ingrese su Celular" type="text" name="test595" class="mv-inputbox mv-inputbox-style-1"/>
+                            <input placeholder="Ingrese su Celular" type="text" name="celular" class="mv-inputbox mv-inputbox-style-1"/>
                           </div>
                         </div>
                       </div>
@@ -128,16 +129,16 @@
                         <div class="mv-form-group">
                           <div class="col-md-2 mv-label"> <strong class="text-uppercase">Correo</strong></div>
                           <div class="col-md-10 mv-field">
-                            <input placeholder="Ingrese su Correo Electrónico" type="email" name="test595" class="mv-inputbox mv-inputbox-style-1"/>
+                            <input placeholder="Ingrese su Correo Electrónico" type="email" name="correo" class="mv-inputbox mv-inputbox-style-1"/>
                           </div>
                         </div>
                       </div>
 
                       <div class="col-sm-6">
                         <div class="mv-form-group">
-                          <div class="col-md-2 mv-label"> <strong class="text-uppercase"  >SitioWeb</strong></div>
+                          <div class="col-md-2 mv-label"> <strong class="text-uppercase"  >Teléfono</strong></div>
                           <div class="col-md-10 mv-field">
-                            <input placeholder=" Si tiene un sitio web" type="text" name="test327" class="mv-inputbox mv-inputbox-style-1"/>
+                            <input placeholder="Ingrese su Numero Telefonico" type="text" name="telefono" class="mv-inputbox mv-inputbox-style-1"/>
                           </div>
                         </div>
                       </div>
@@ -146,14 +147,15 @@
                     <div class="mv-form-group input-message-wrapper">
                       <div class="col-md-1 mv-label"> <strong class="text-uppercase"> </strong></div>
                       <div class="col-md-11 mv-field">
-                        <textarea name="test178" rows="6" placeholder="Mensaje" data-mv-placeholder="Escriba su Mensaje " class="mv-inputbox mv-inputbox-style-1"></textarea>
+                        <textarea name="mensaje" rows="6" placeholder="Mensaje" data-mv-placeholder="Escriba su Mensaje " class="mv-inputbox mv-inputbox-style-1"></textarea>
                       </div>
                     </div>
 
                     <div class="mv-form-group submit-button">
                       <div class="col-md-1 mv-label"> <strong class="text-uppercase"> </strong></div>
                       <div class="col-md-11 mv-field">
-                        <button type="submit" class="mv-btn mv-btn-style-5 btn-5-h-50 mv-btn-block btn-subscribe">suscribirse</button>
+                        <button type="submit" class="mv-btn mv-btn-style-5 btn-5-h-50 mv-btn-block btn-subscribe">Enviar</button>
+
                       </div>
                     </div>
                   </form>

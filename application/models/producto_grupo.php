@@ -14,7 +14,11 @@
             $consulta = $this->db->query($sql);
             return	$consulta->result_array();
         }
-        
+         public function get_por_id($id_grupo){
+            $sql="select * from producto_grupo where id = ".$id_grupo.";";
+            $consulta = $this->db->query($sql);
+            return  $consulta->result_array();
+        }
     }
     
 ?>

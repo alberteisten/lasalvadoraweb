@@ -30,14 +30,14 @@
               <div class="mv-block-style-34 mv-bg-white mv-box-shadow-gray-1">
                 <div class="block-34-inner">
                   <div class="block-34-title">
-                    <div class="text-main">our story</div>
+                    <div class="text-main">Misión</div>
                     <div class="text-sub">Misión</div>
                   </div>
-                  <div style="background-image: url(<?=base_url()?>assets/images/demo/demo_139.jpg);" class="block-34-box">
+                  <div style="background-image: url(<?=base_url()?>assets/images/demo/);" class="block-34-box">
                     <div class="block-34-box-inner mv-col-wrapper">
-                      <div class="mv-col-left block-34-thumb"><span style="background-image: url(<?=base_url()?>assets/images/demo/demo_139.jpg);" class="block-34-thumb-img"></span></div>
+                      <div class="mv-col-left block-34-thumb"><span style="background-image: url(<?=base_url()?>assets/images/demo/mision_ofi.jpg);" class="block-34-thumb-img"></span></div>
                       <div class="mv-col-right block-34-main">
-                        <div class="block-34-content">Somos una empresa dedicada a la importación y comercialización de mercadería en Gral. buscando la satisfacción del cliente por medio de una excelente calidad de nuestros productos, servicios, conocimiento, experiencia y el más amplio stock de mercadería.</div>
+                        <div class="block-34-content">Somos una empresa dedicada a la importación y comercialización de mercadería en General. Buscando la satisfacción del cliente por medio de una excelente calidad de nuestros productos, servicios, conocimiento, experiencia y el más amplio stock de mercadería.</div>
                       </div>
                     </div>
                   </div>
@@ -51,12 +51,12 @@
               <div class="mv-block-style-34 mv-bg-white mv-box-shadow-gray-1">
                 <div class="block-34-inner">
                   <div class="block-34-title">
-                    <div class="text-main">our story</div>
+                    <div class="text-main">Visión</div>
                     <div class="text-sub">Visión</div>
                   </div>
-                  <div style="background-image: url(<?=base_url()?>assets/images/demo/demo_139.jpg);" class="block-34-box">
+                  <div style="background-image: url(<?=base_url()?>assets/images/demo/;" class="block-34-box">
                     <div class="block-34-box-inner mv-col-wrapper">
-                      <div class="mv-col-left block-34-thumb"><span style="background-image: url(<?=base_url()?>assets/images/demo/demo_139.jpg);" class="block-34-thumb-img"></span></div>
+                      <div class="mv-col-left block-34-thumb"><span style="background-image: url(<?=base_url()?>assets/images/demo/vision_ofi.jpg);" class="block-34-thumb-img"></span></div>
                       <div class="mv-col-right block-34-main">
                         <div class="block-34-content">Ser la empresa líder en importaciones a nivel nacional, manteniendo nuestra imagen corporativa enfocado al excelente servicio de calidad en importaciones, con el mejoramiento continúo en los procesos organizacionales.</div>
                       </div>
@@ -72,19 +72,24 @@
               <div class="mv-block-style-34 mv-bg-white mv-box-shadow-gray-1">
                 <div class="block-34-inner">
                   <div class="block-34-title">
-                    <div class="text-main">our story</div>
+                    <div class="text-main">Valores</div>
                     <div class="text-sub">Valores</div>
                   </div>
                   <div style="background-image: url(<?=base_url()?>assets/images/demo/demo_139.jpg);" class="block-34-box">
                     <div class="block-34-box-inner mv-col-wrapper">
-                      <div class="mv-col-left block-34-thumb"><span style="background-image: url(<?=base_url()?>assets/images/demo/demo_139.jpg);" class="block-34-thumb-img"></span></div>
+                      <div class="mv-col-left block-34-thumb"><span style="background-image: url(<?=base_url()?>assets/images/demo/valores_ofi.jpg);" class="block-34-thumb-img"></span></div>
                       <div class="mv-col-right block-34-main">
                         <div class="block-34-content">
-                        Confiabilidad
-                        Disponibilidad
-                        Honestidad
-                        Responsabilidad
-                        Compromiso </div>
+                        <lu>
+                            <li>Confiabilidad</li>
+                            <li>Disponibilidad</li>
+                            <li>Honestidad</li>
+                            <li>Responsabilidad</li>
+                            <li>Compromiso</li>
+                            <li>Integridad</li>
+                            <li>Trabajo en Equipo</li>
+                        </lu>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -95,12 +100,12 @@
           </div>
           <!-- .block-our-story-->
 
-          <div class="block-our-team mv-bg-white">
+         <!-- <div class="block-our-team mv-bg-white">
             <div class="container">
               <div class="block-our-team-title mv-title-style-3">
-                <div class="title-3-text"><span class="behind">our team</span><span class="main">our team</span></div>
+                <div class="title-3-text"><span class="behind">Nuestro Equipo</span><span class="main">Nuestro Equipo</span></div>
               </div>
-              <!-- .block-our-team-title-->
+             
 
               <div class="block-our-team-main">
                 <div class="mv-block-style-35">
@@ -119,13 +124,13 @@
                     </div>
                   </div>
                 </div>
-                <!-- .mv-block-style-35-->
+              
               </div>
-              <!-- .block-our-team-main-->
+             
             </div>
-          </div>
+          </div>  -->
           <!-- .block-our-team-->
-
+          <!--
           <div class="block-testimonial">
             <div class="container">
               <div class="block-testimonial-inner mv-block-style-36 mv-bg-white mv-box-shadow-gray-1">
@@ -166,7 +171,7 @@
                             </div>
                           </div>
                         </div>
-                        <!-- .slick-slide-->
+                      
 
                         <div class="slick-slide">
                           <div class="slick-slide-inner">
@@ -196,7 +201,7 @@
                             </div>
                           </div>
                         </div>
-                        <!-- .slick-slide-->
+                      
 
                         <div class="slick-slide">
                           <div class="slick-slide-inner">
@@ -226,7 +231,7 @@
                             </div>
                           </div>
                         </div>
-                        <!-- .slick-slide-->
+                       
 
                         <div class="slick-slide">
                           <div class="slick-slide-inner">
@@ -256,11 +261,11 @@
                             </div>
                           </div>
                         </div>
-                        <!-- .slick-slide-->
+                       
 
                       </div>
                     </div>
-                    <!-- .block-36-gallery-main-->
+                    
 
                     <div class="block-36-gallery-thumbs">
                       <div class="slider gallery-thumbs">
@@ -306,21 +311,17 @@
 
                       </div>
                     </div>
-                    <!-- .block-36-gallery-thumbs-->
+                   
                   </div>
-                  <!-- .testimonial-about-slider-->
+                
                 </div>
               </div>
-              <!-- .mv-block-style-36-->
+           
             </div>
-          </div>
+          </div>  -->
           <!-- .block-testimonial-->
         </div>
       </section>
       <!-- .mv-main-body-->
-
-      
-     
-
 
 <?=$footers?>

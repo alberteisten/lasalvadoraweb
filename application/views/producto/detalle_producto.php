@@ -1,5 +1,4 @@
 <?= $headers ?>
-
 <section class="mv-main-body product-detail-main mv-bg-gray mv-wrap">
         <div class="container">
           <div class="post">
@@ -9,64 +8,45 @@
                   <div class="mv-col-left block-27-col-slider">
                     <div class="mv-block-style-26">
                       <div class="product-detail-slider mv-slick-slide mv-lightbox-style-1">
-                        <div class="block-26-gallery-main">
+                       
+											  <div class="block-26-gallery-main">
                           <div class="slider gallery-main">
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" alt="demo" class="block-26-main-img"/></a></div>
+                        		<div class="slick-slide">
+                            <div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" alt="demo" class="block-26-main-img"/></a></div>
                             </div>
                             <!-- .slick-slide-->
-
                             <div class="slick-slide">
 														<div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" alt="demo" class="block-26-main-img"/></a></div>
                             </div>
                             <!-- .slick-slide-->
-
                             <div class="slick-slide">
 														<div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-main-img"/></a></div>
                             </div>
-                            <!-- .slick-slide-->
-
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" title="" class="mv-lightbox-item"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_119.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_119.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                            <div class="slick-slide">
-                              <div class="slick-slide-inner"><a href="<?=base_url();?>assets/images/demo/demo_120.png" title="" class="mv-lightbox-item"><img src="<?=base_url();?>assets/images/demo/demo_120.png" alt="demo" class="block-26-main-img"/></a></div>
-                            </div>
-                            <!-- .slick-slide-->
-
-                          
-                          </div>
+                            <!-- .slick-slide-->                      
+													</div>
+													
                         </div>
+
                         <!-- .block-26-gallery-main-->
 
                         <div class="block-26-gallery-thumbs">
                           <div class="block-26-gallery-thumbs-inner">
-                            <div class="slider gallery-thumbs">
+                            
+														<div class="slider gallery-thumbs">
                               <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" alt="demo" class="block-26-thumbs-img"/></div>
+                              <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/1.png" alt="demo" class="block-26-thumbs-img"/></div>
                               </div>
-
                               <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" alt="demo" class="block-26-thumbs-img"/></div>
+                              <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/2.png" alt="demo" class="block-26-thumbs-img"/></div>
                               </div>
-
                               <div class="slick-slide">
-                                <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-thumbs-img"/></div>
+                              <div class="slick-slide-inner mv-box-shadow-gray-2"><img src="http://lasalvadorahnos.com/detalle_producto/<?=$producto[0]['id_producto'];?>/3.png" alt="demo" class="block-26-thumbs-img"/></div>
                               </div>
-
                             </div>
-
                             <div class="slick-slide-control"></div>
                           </div>
                         </div>
+												
                         <!-- .block-26-gallery-thumbs-->
                       </div>
                       <!-- .product-detail-slider-->
@@ -76,155 +56,37 @@
                     <div onclick="$(this).remove()" class="block-27-sale-off mv-label-style-2 text-center">
                       <div class="label-2-inner">
                         <ul class="label-2-ul">
-                          <li class="number">-25%</li>
-                          <li class="text">sale</li>
+                         <!-- <li class="number">-25%</li>
+                          <li class="text">sale</li> -->
                         </ul>
                       </div>
                     </div>
 
-                    <div><img src="<?=base_url();?>assets/images/demo/demo_29.png" alt="demo" onclick="$(this).remove()" class="block-27-logo"/></div>
+                    <!--<div><img src="<?=base_url();?>assets/images/logo/logolsh.png" alt="logo" onclick="$(this).remove()" class="block-27-logo"/></div> -->
+                        <div class="block-27-logo"> <?=$grupo[0]['nombre']?> </div>
                   </div>
 
                   <div class="mv-col-right block-27-col-info">
                     <div class="col-info-inner">
                       <div class="block-27-info">
-                        <div class="block-27-title"><?=$producto[0]['descripcion_facilito'] ?></div>
-
-                        <div class="block-27-rate clearfix">
-                          <div class="dropdown mv-dropdown-style-1 script-dropdown-2"><a href="#customer-review" class="btn-dropdown"><span data-rate="true" data-score="4.6" class="mv-rate"><span class="rate-inner mv-f-14 text-left"><span class="stars-wrapper empty-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></span><span class="stars-wrapper filled-stars"><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span><span class="item-rate"></span></span></span><span class="rate-score">(<span class="score-number">4.4</span>)</span></span></a>
-                            <div class="dropdown-menu">
-                              <div class="dropdown-menu-inner">
-                                <div class="mv-block-style-42">
-                                  <div class="block-42-header text-center">4.4 out of 5 stars</div>
-                                  <div class="block-42-body">
-                                    <div class="block-42-list">
-
-                                      <div class="item">
-                                        <div class="mv-dp-table align-middle">
-                                          <div class="mv-dp-table-cell col-type-star">
-                                            <div class="title-type-star"> <strong>5 star</strong></div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-progress-bar">
-                                            <div class="mv-progress-bar thick-bars">
-                                              <div class="progress">
-                                                <div style="width: 69%;" class="progress-bar-wrap">
-                                                  <div class="progress-bar progress-bar-primary mv-animated"></div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-percent">
-                                            <div class="title-percent">69%</div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <!-- .item-->
-
-                                      <div class="item">
-                                        <div class="mv-dp-table align-middle">
-                                          <div class="mv-dp-table-cell col-type-star">
-                                            <div class="title-type-star"> <strong>4 star</strong></div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-progress-bar">
-                                            <div class="mv-progress-bar thick-bars">
-                                              <div class="progress">
-                                                <div style="width: 11%;" class="progress-bar-wrap">
-                                                  <div class="progress-bar progress-bar-primary mv-animated"></div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-percent">
-                                            <div class="title-percent">11%</div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <!-- .item-->
-
-                                      <div class="item">
-                                        <div class="mv-dp-table align-middle">
-                                          <div class="mv-dp-table-cell col-type-star">
-                                            <div class="title-type-star"> <strong>3 star</strong></div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-progress-bar">
-                                            <div class="mv-progress-bar thick-bars">
-                                              <div class="progress">
-                                                <div style="width: 6%;" class="progress-bar-wrap">
-                                                  <div class="progress-bar progress-bar-primary mv-animated"></div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-percent">
-                                            <div class="title-percent">6%</div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <!-- .item-->
-
-                                      <div class="item">
-                                        <div class="mv-dp-table align-middle">
-                                          <div class="mv-dp-table-cell col-type-star">
-                                            <div class="title-type-star"> <strong>2 star</strong></div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-progress-bar">
-                                            <div class="mv-progress-bar thick-bars">
-                                              <div class="progress">
-                                                <div style="width: 4%;" class="progress-bar-wrap">
-                                                  <div class="progress-bar progress-bar-primary mv-animated"></div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-percent">
-                                            <div class="title-percent">4%</div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <!-- .item-->
-
-                                      <div class="item">
-                                        <div class="mv-dp-table align-middle">
-                                          <div class="mv-dp-table-cell col-type-star">
-                                            <div class="title-type-star"> <strong>1 star</strong></div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-progress-bar">
-                                            <div class="mv-progress-bar thick-bars">
-                                              <div class="progress">
-                                                <div style="width: 10%;" class="progress-bar-wrap">
-                                                  <div class="progress-bar progress-bar-primary mv-animated"></div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="mv-dp-table-cell col-percent">
-                                            <div class="title-percent">10%</div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <!-- .item-->
-                                    </div>
-                                  </div>
-                                  <div class="block-42-footer text-center"><a href="#customer-review" class="btn-see-all">See all 405 reviews &nbsp;<i class="fa fa-caret-right"></i></a></div>
-                                </div>
-                                <!-- .mv-block-style-42-->
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+                      <div class="block-27-title">NOMBRE:</div>
+                      <center><i>  <div class="block-27-title"><?=$producto[0]['descripcion_facilito'] ?></div></i></center>
 
                         <div class="block-27-price">
-                          <div class="new-price">$115,00</div>
-                          <div class="old-price">$127,99</div>
+                        <div class="block-27-title">CODIGO:</div>
+                          <center><i> <div class="block-27-title"><?=$producto[0]['id_producto'] ?></div></i></center>
+                         <!-- <div class="new-price">$115,00</div>
+                          <div class="old-price">$127,99</div> -->
                         </div>
+                        <div class="block-27-title">DETALLE:</div>
 
-                        <div class="block-27-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc finibus sit amet ligula id gravida. Curabitur quis orci non leo varius dapibus in ornare tortor.</div>
-
-                        <div class="block-27-table-info">
+                        <center><i>  <div class="block-27-title"><?=$producto[0]['descripcion'] ?></div></i></center>
+                        
+                       <!-- <div class="block-27-table-info">
                           <form method="GET">
                             <table>
                               <tr>
-                                <td>Select size:</td>
+                                <td>Tamaño:</td>
                                 <td>
                                   <div class="mv-list-inline-style-1">
                                     <ul class="list-inline-1">
@@ -240,27 +102,27 @@
                               <tr>
                                 <td>Color:</td>
                                 <td>
-                                  <div class="mv-list-inline-style-1 space-10">
+                                 <div class="mv-list-inline-style-1 space-10">
                                     <ul class="list-inline-1">
                                       <li class="active"><a href="#"><span style="background-color: #ffb535" class="icon-color"></span></a></li>
                                       <li><a href="#"><span style="background-color: #222222" class="icon-color"></span></a></li>
                                       <li><a href="#"><span style="background-color: #eeeeee" class="icon-color"></span></a></li>
                                     </ul>
-                                  </div>
+                                  </div> 
                                 </td>
                               </tr>
                               <tr>
-                                <td>Quantity:</td>
+                                <td>cantidad:</td>
                                 <td>
-                                  <div class="mv-spinner-style-1 input-quantity-wrapper">
+                                 <div class="mv-spinner-style-1 input-quantity-wrapper">
                                     <input type="text" name="test138" value="1" class="mv-inputbox mv-only-numeric input-quantity-product-detail"/>
-                                  </div>
+                                  </div> 
                                 </td>
                               </tr>
                               <tr>
-                                <td>Categories:</td>
+                                <td>Categoría:</td>
                                 <td>
-                                  <div class="mv-list-inline-style-2">
+                                 <div class="mv-list-inline-style-2">
                                     <ul class="list-inline-2">
                                       <li class="active"><a href="#" class="mv-btn">Women Shirts</a></li>
                                       <li><a href="#" class="mv-btn">Tops</a></li>
@@ -269,30 +131,20 @@
                                   </div>
                                 </td>
                               </tr>
-                              <tr>
-                                <td>Tags: </td>
-                                <td>
-                                  <div class="mv-list-inline-style-2">
-                                    <ul class="list-inline-2">
-                                      <li><a href="#" class="mv-btn">Women</a></li>
-                                      <li><a href="#" class="mv-btn">Black</a></li>
-                                    </ul>
-                                  </div>
-                                </td>
-                              </tr>
+                             
                             </table>
                           </form>
-                        </div>
+                        </div> -->
                       </div>
-                      <!-- .block-27-info-->
+                      
 
                       <div class="block-27-message content-message mv-message-style-1">
                         <div class="message-inner"></div>
-                      </div>
-                      <!-- .block-27-message-->
+                      </div> 
+                      
                     </div>
 
-                    <div class="block-27-button">
+                  <!--  <div class="block-27-button">
                       <div class="mv-dp-table align-middle">
                         <div class="mv-dp-table-cell">
                           <div class="mv-btn-group text-left">
@@ -304,7 +156,8 @@
                           </div>
                         </div>
                       </div>
-                    </div>
+                    </div> -->
+
                   </div>
                 </div>
               </div>
@@ -312,7 +165,7 @@
             </div>
             <!-- .block-info-->
 
-            <div class="row block-info-more">
+           <!-- <div class="row block-info-more">
               <div class="col-sm-6 col-specification">
                 <div class="specification-main mv-tab-style-3 mv-box-shadow-gray-1 mv-bg-white">
                   <ul role="tablist" class="tab-list nav nav-tabs">
@@ -338,10 +191,10 @@
                     </div>
                   </div>
                 </div>
-                <!-- .specification-main-->
+               
               </div>
 
-              <div id="customer-review" class="col-sm-6 col-review">
+             <div id="customer-review" class="col-sm-6 col-review">
                 <div class="review-main mv-well-style-1 mv-box-shadow-gray-1 mv-bg-white">
                   <div class="well-1-header">
                     <div class="mv-title-style-11">customer review</div>
@@ -354,9 +207,9 @@
                           <div class="block-37-name"><a href="#">Roman Travis</a></div>
                         </div>
                       </div>
-                      <!-- .mv-block-style-37-->
+                    
                     </div>
-                    <!-- .review-profile-->
+                   
 
                     <div class="review-rating-field">
                       <form method="GET" class="form-review">
@@ -382,7 +235,7 @@
                         </div>
                       </form>
                     </div>
-                    <!--.review-rating-field-->
+                    
 
                     <div class="review-list mv-block-style-28">
                       <div class="block-28-list">
@@ -403,7 +256,7 @@
                             </div>
                           </div>
                         </div>
-                        <!-- .item-->
+                        
 
                         <div class="item">
                           <div class="mv-dp-table">
@@ -429,10 +282,10 @@
                             </div>
                           </div>
                         </div>
-                        <!-- .item-->
+                        
                       </div>
                     </div>
-                    <!-- .review-list-->
+                   
 
                     <div class="review-pagination">
                       <div class="mv-pagination-style-2 text-right">
@@ -448,19 +301,20 @@
                           <li class="last"><a href="#" class="fa fa-angle-double-right"></a></li>
                         </ul>
                       </div>
-                      <!-- .mv-pagination-style-2-->
+                      
                     </div>
-                    <!-- .review-pagination-->
+                   
                   </div>
                 </div>
-                <!-- .review-main-->
-              </div>
-            </div>
-            <!-- .block-info-more-->
+             
+              </div> 
+            </div> -->
+           
           </div>
-          <!-- .post-->
+       
         </div>
       </section>
 
   <!-- FIN CONTENIDO ****************************************************************-->
-  <?= $footers ?>
+	<?= $footers ?>
+

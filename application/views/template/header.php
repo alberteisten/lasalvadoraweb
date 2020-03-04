@@ -109,9 +109,9 @@ window.smartsupp||(function(d) {
                           <div class="dropdown-menu-inner">
                             <nav class="mv-menu-style-3">
                               <ul>
-                                <li><a href="login.html"><i class="fa fa-sign-in mv-color-primary"></i>&nbsp;
+                                <li><a href="index.php"><i class="fa fa-sign-in mv-color-primary"></i>&nbsp;
                                     Iniciar Sesion</a></li>
-                                <li><a href="login.html"><i class="fa fa-pencil-square-o mv-color-primary"></i>&nbsp;
+                                <li><a href="index.php"><i class="fa fa-pencil-square-o mv-color-primary"></i>&nbsp;
                                     Registrarse</a></li>
                                 <!--<li><a href="wishlist.html">My Wishlist</a></li>
                                 <li><a href="compare.html">Compare</a></li>-->
@@ -140,6 +140,7 @@ window.smartsupp||(function(d) {
               <!-- .header-toggle-off-canvas-->
 
               <div class="header-logo"><a href="<?=base_url();?>" title="La Salvadora"><img src="<?=base_url();?>assets/images/logo/logo-lasalvadora.png" alt="logo" class="logo-img img-default image-live-view"/><img src="<?=base_url();?>assets/images/logo/logo-lasalvadora.png" alt="logo" class="logo-img img-scroll image-live-view"/></a></div>
+
               <!-- .header-logo-->
 
               <div class="main-nav-wrapper hidden-xs hidden-sm">
@@ -151,19 +152,21 @@ window.smartsupp||(function(d) {
 
                     <li><a href="#"><span class="menu-text">Mas <i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
-                        <li><a href="cart.html">Eventos</a></li>
-                        <li><a href="checkout.html">Noticias</a></li>
+                        <li><a href="index.php">Recetas</a></li>
+                        <li><a href="index.php">Eventos</a></li>
+                        <li><a href="index.php">Noticias</a></li>
                       </ul>
-                    </li>
-                    <li><a href="#"><span class="menu-text">Catálogos<i class="menu-icon fa fa-angle-down"></i></span></a>
+                    </li> 
+                    <li><a href="<?=base_url();?>"><span class="menu-text">Catálogos<i class="menu-icon fa fa-angle-down"></i></span></a>
                       <ul>
-                        <li><a href="blog-list.html">Catálogo 2019</a></li>
-                        <li><a href="blog-grid-2.html">Catálogo 2020</a></li>
+                        <li><a href="index.php">Catálogo 2020</a></li>
+                        <!--<li><a href="blog-grid-2.html">Catálogo 2020</a></li>-->
                       </ul>
                     </li>
                     <li><a href="acercade"><span class="menu-text">Acerca De</span></a></li>
                    <!-- <li><a href="contact.html"><span class="menu-text">Contactenos</span></a></li>-->
-                    <li><a href="#"><span class="menu-text">Contactenos <i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <li><a href="<?=base_url();?>"><span class="menu-text">Contáctenos <i class="menu-icon fa fa-angle-down"></i></span></a>
+                    <!--<li><a href="#"><span class="menu-text">Contáctenos <i class="menu-icon fa fa-angle-down"></i></span></a>-->
                       <ul class="dropdown-left">
                         <li><a href="sanmiguel">Casa Matriz</a></li><!--
                         <li><a href="forgot-password.html">Forgot Password</a></li>
@@ -197,11 +200,11 @@ window.smartsupp||(function(d) {
                 <div class="header-shop">
 									<div class="item-button"><a href="https://www.facebook.com/lasalvadorahnos/" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-facebook"></span><span class="number">731</span></span></a></div>
 									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></a></div>
-									<div class="item-button"><a href="https://wa.me/59176797120" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-instagram"></span><span class="number">0</span></span></a></div>
+									<div class="item-button"><a href="#" class="mv-btn mv-btn-style-11 btn-my-wishlist"  target="_blank"><span class="btn-inner"><span class="icon fa fa-instagram"></span><span class="number">0</span></span></a></div>
 
                <!--  <div class="item-button dropdown mv-dropdown-style-1 script-dropdown-1">
                     <button type="button" class="mv-btn mv-btn-style-11 btn-dropdown btn-my-cart"><span class="btn-inner"><span class="icon fa fa-whatsapp"></span><span class="number">17</span></span></button>
-                <!-- <div class="dropdown-menu pull-right">
+                <div class="dropdown-menu pull-right">
                       <div class="dropdown-menu-inner">
                         <div class="mv-block-style-39">-->
                         <!--  <div class="block-39-header">You have <span class="mv-color-primary">3 items</span> in your shopping cart</div>-->
